@@ -1,0 +1,1403 @@
+[
+  {
+    "id": 1,
+    "url": "https://www.nasa.gov/mission_pages/hubble/main/index.html",
+    "topic": "Astronomy",
+    "label": "Correct",
+    "reasoning": "Official government agency (NASA); primary source for space data."
+  },
+  {
+    "id": 2,
+    "url": "https://www.cdc.gov/flu/weekly/index.htm",
+    "topic": "Health",
+    "label": "Correct",
+    "reasoning": "Official CDC data; strictly peer-reviewed and data-backed."
+  },
+  {
+    "id": 3,
+    "url": "https://www.goop.com/wellness/sexual-health/jade-eggs-for-your-yoni/",
+    "topic": "Wellness",
+    "label": "Incorrect",
+    "reasoning": "Promotes 'Jade Eggs' for health benefits; scientifically debunked and fined for false claims."
+  },
+  {
+    "id": 4,
+    "url": "https://creation.com/refuting-evolution-2-chapter-3-argument-evolution-is-true-science-creation-is-religion",
+    "topic": "Evolution",
+    "label": "Incorrect",
+    "reasoning": "'Creation Ministries' rejects established evolutionary biology in favor of religious dogma."
+  },
+  {
+    "id": 5,
+    "url": "https://www.dailymail.co.uk/sciencetech/article-12946961/Alien-life-2024-experts-predict.html",
+    "topic": "Aliens",
+    "label": "Partially Correct",
+    "reasoning": "Quotes real scientists but uses sensational headlines exaggerating probabilities."
+  },
+  {
+    "id": 6,
+    "url": "https://www.nature.com/articles/d41586-024-00123-x",
+    "topic": "Biology",
+    "label": "Correct",
+    "reasoning": "Nature is a top-tier peer-reviewed academic journal; highly reliable."
+  },
+  {
+    "id": 7,
+    "url": "https://www.naturalnews.com/2024-01-02-mrna-vaccines-cause-turbo-cancer.html",
+    "topic": "Vaccines",
+    "label": "Incorrect",
+    "reasoning": "Natural News is a known misinformation site; 'turbo cancer' is not a recognized medical term."
+  },
+  {
+    "id": 8,
+    "url": "https://www.reddit.com/r/conspiracy/comments/18x3y5z/the_earth_is_hollow_proof_inside/",
+    "topic": "Geology",
+    "label": "Incorrect",
+    "reasoning": "User-generated conspiracy claiming Earth is hollow; physically impossible."
+  },
+  {
+    "id": 9,
+    "url": "https://www.quora.com/Is-time-travel-possible-according-to-physics",
+    "topic": "Physics",
+    "label": "Partially Correct",
+    "reasoning": "Mix of accurate physics explanations and speculative non-expert opinions."
+  },
+  {
+    "id": 10,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "topic": "Climate",
+    "label": "Correct",
+    "reasoning": "WHO official fact sheet; accepted global scientific consensus."
+  },
+  {
+    "id": 11,
+    "url": "https://www.infowars.com/posts/globalists-admit-weather-weapons-are-real/",
+    "topic": "Climate",
+    "label": "Incorrect",
+    "reasoning": "InfoWars promotes conspiracy theories; misrepresents geoengineering research."
+  },
+  {
+    "id": 12,
+    "url": "https://www.scientificamerican.com/article/how-quantum-entanglement-works/",
+    "topic": "Physics",
+    "label": "Correct",
+    "reasoning": "Reputable science journalism explaining physics accurately."
+  },
+  {
+    "id": 13,
+    "url": "https://www.healthline.com/nutrition/alkaline-diet-review",
+    "topic": "Nutrition",
+    "label": "Partially Correct",
+    "reasoning": "Healthline is generally reliable, but 'alkaline diet' mechanisms are overstated."
+  },
+  {
+    "id": 14,
+    "url": "https://flat-earth-society.org/",
+    "topic": "Geology",
+    "label": "Incorrect",
+    "reasoning": "Flat Earth claims contradict all geophysical and astronomical evidence."
+  },
+  {
+    "id": 15,
+    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeine",
+    "topic": "Chemistry",
+    "label": "Correct",
+    "reasoning": "NIH chemical database; factual and verified."
+  },
+  {
+    "id": 16,
+    "url": "https://www.horoscope.com/us/horoscopes/general/index.aspx",
+    "topic": "Astronomy",
+    "label": "Incorrect",
+    "reasoning": "Astrology site presenting superstition as science."
+  },
+  {
+    "id": 17,
+    "url": "https://www.buzzfeed.com/badge/science",
+    "topic": "General",
+    "label": "Partially Correct",
+    "reasoning": "Science listicles often oversimplify or exaggerate findings."
+  },
+  {
+    "id": 18,
+    "url": "https://www.spacex.com/vehicles/starship/",
+    "topic": "Tech",
+    "label": "Correct",
+    "reasoning": "Manufacturer specifications; engineering data is accurate."
+  },
+  {
+    "id": 19,
+    "url": "https://articles.mercola.com/sites/articles/archive/2024/01/01/fluoride-toxicity.aspx",
+    "topic": "Health",
+    "label": "Incorrect",
+    "reasoning": "Mercola frequently spreads health misinformation; exaggerates fluoride toxicity."
+  },
+  {
+    "id": 20,
+    "url": "https://en.wikipedia.org/wiki/String_theory",
+    "topic": "Physics",
+    "label": "Correct",
+    "reasoning": "Wikipedia science pages are well-moderated and accurate."
+  },
+  {
+    "id": 21,
+    "url": "https://patents.google.com/patent/US20060071122A1/en",
+    "topic": "Physics",
+    "label": "Incorrect",
+    "reasoning": "Patent describes impossible 'teleportation system'; patents do not validate scientific feasibility."
+  },
+  {
+    "id": 22,
+    "url": "https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog",
+    "topic": "Zoology",
+    "label": "Correct",
+    "reasoning": "National Geographic provides reputable, evidence-based biological information."
+  },
+  {
+    "id": 23,
+    "url": "https://www.psychologytoday.com/us/blog/navigating-the-love-gap/202401/why-opposites-attract",
+    "topic": "Psychology",
+    "label": "Partially Correct",
+    "reasoning": "Expert-written but mixes theory with opinion; 'opposites attract' is debated."
+  },
+  {
+    "id": 24,
+    "url": "https://hubblesite.org/",
+    "topic": "Astronomy",
+    "label": "Correct",
+    "reasoning": "Official Hubble Telescope data and images."
+  },
+  {
+    "id": 25,
+    "url": "https://www.huffpost.com/section/wellness",
+    "topic": "Wellness",
+    "label": "Partially Correct",
+    "reasoning": "Promotes wellness trends; mixes valid advice with unsupported health claims."
+  },
+  {
+    "id": 26,
+    "url": "https://chem.libretexts.org/",
+    "topic": "Chemistry",
+    "label": "Correct",
+    "reasoning": "Academic open-source textbook reviewed by subject experts."
+  },
+  {
+    "id": 27,
+    "url": "https://www.theonion.com/study-finds-most-people-dead-within-2-weeks-of-taking-1819580000",
+    "topic": "Medical",
+    "label": "Incorrect",
+    "reasoning": "Satire site; not factual."
+  },
+  {
+    "id": 28,
+    "url": "https://climate.nasa.gov/",
+    "topic": "Climate",
+    "label": "Correct",
+    "reasoning": "NASA’s climate science portal; highly reliable."
+  },
+  {
+    "id": 29,
+    "url": "https://www.newscientist.com/article/mg25133480-100-is-it-possible-to-remember-being-born/",
+    "topic": "Psychology",
+    "label": "Partially Correct",
+    "reasoning": "Reputable science journalism but the topic is highly speculative."
+  },
+  {
+    "id": 30,
+    "url": "https://answersingenesis.org/dinosaurs/humans/",
+    "topic": "Paleontology",
+    "label": "Incorrect",
+    "reasoning": "Claims humans lived with dinosaurs; contradicts fossil record."
+  },
+  {
+    "id": 31,
+    "url": "https://www.noaa.gov/weather",
+    "topic": "Meteorology",
+    "label": "Correct",
+    "reasoning": "NOAA official weather data."
+  },
+  {
+    "id": 32,
+    "url": "https://www.youtube.com/watch?v=PdjHKOPVzC0",
+    "topic": "History/Sci",
+    "label": "Partially Correct",
+    "reasoning": "Ancient Aliens mixes real archaeology with unsupported alien theories."
+  },
+  {
+    "id": 33,
+    "url": "https://www.snopes.com/fact-check/did-nasa-confirm-earth-dark-days/",
+    "topic": "General",
+    "label": "Correct",
+    "reasoning": "Snopes fact-check accurately debunks false claims."
+  },
+  {
+    "id": 34,
+    "url": "https://cern.ch/home",
+    "topic": "Physics",
+    "label": "Correct",
+    "reasoning": "Official CERN website; accurate scientific information."
+  },
+  {
+    "id": 35,
+    "url": "https://www.foodbabe.com/",
+    "topic": "Food Sci",
+    "label": "Incorrect",
+    "reasoning": "'Food Babe' spreads misinformation about safe chemicals."
+  },
+  {
+    "id": 36,
+    "url": "https://www.ndtv.com/health/5-miracle-foods-that-melt-belly-fat-fast-234567",
+    "topic": "Nutrition",
+    "label": "Partially Correct",
+    "reasoning": "Lists healthy foods but falsely claims they 'melt fat fast'."
+  },
+  {
+    "id": 37,
+    "url": "https://genome.gov/",
+    "topic": "Genetics",
+    "label": "Correct",
+    "reasoning": "NHGRI government resource; reliable genetic information."
+  },
+  {
+    "id": 38,
+    "url": "https://www.gaia.com/",
+    "topic": "General",
+    "label": "Incorrect",
+    "reasoning": "Hosts pseudoscience documentaries."
+  },
+  {
+    "id": 39,
+    "url": "https://www.researchgate.net/publication/345678_Climate_Change_Data",
+    "topic": "Science",
+    "label": "Correct",
+    "reasoning": "Assuming the uploaded paper is peer-reviewed; ResearchGate hosts legitimate research."
+  },
+  {
+    "id": 40,
+    "url": "https://www.menshealth.com/fitness/a19545677/exercises-to-boost-testosterone/",
+    "topic": "Fitness",
+    "label": "Partially Correct",
+    "reasoning": "Exercises are valid but testosterone-boosting claims often exaggerated."
+  },
+  {
+    "id": 41,
+    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+    "topic": "Medical",
+    "label": "Correct",
+    "reasoning": "Mayo Clinic provides accurate medical information."
+  },
+  {
+    "id": 42,
+    "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/noahs-ark-discovered-again/",
+    "topic": "Archaeology",
+    "label": "Partially Correct",
+    "reasoning": "Discusses archaeological sites but frames them around unsupported Noah’s Ark claims."
+  },
+  {
+    "id": 43,
+    "url": "https://www.theflatearthsociety.org/forum/",
+    "topic": "Physics",
+    "label": "Incorrect",
+    "reasoning": "Forum dedicated to rejecting fundamental physics."
+  },
+  {
+    "id": 44,
+    "url": "https://plato.stanford.edu/entries/scientific-method/",
+    "topic": "Philosophy",
+    "label": "Correct",
+    "reasoning": "Stanford Encyclopedia of Philosophy; academically rigorous."
+  },
+  {
+    "id": 45,
+    "url": "https://www.drnorthrup.com/",
+    "topic": "Health",
+    "label": "Incorrect",
+    "reasoning": "Known for anti-vaccine and pseudoscience health claims."
+  },
+  {
+    "id": 46,
+    "url": "https://www.technologyreview.com/",
+    "topic": "Tech",
+    "label": "Correct",
+    "reasoning": "MIT Technology Review; reputable tech journalism."
+  },
+  {
+    "id": 47,
+    "url": "https://www.reddit.com/r/futurology/",
+    "topic": "Tech",
+    "label": "Partially Correct",
+    "reasoning": "News links often accurate, but predictions/comments include speculation."
+  },
+  {
+    "id": 48,
+    "url": "https://www.si.edu/",
+    "topic": "General",
+    "label": "Correct",
+    "reasoning": "Smithsonian Institution; research and education authority."
+  },
+  {
+    "id": 49,
+    "url": "https://www.secretspaceprogram.com/",
+    "topic": "Space",
+    "label": "Incorrect",
+    "reasoning": "Conspiracy site claiming existence of secret military space fleets."
+  },
+  {
+    "id": 50,
+    "url": "https://www.science.org/",
+    "topic": "General",
+    "label": "Correct",
+    "reasoning": "Science (AAAS) is one of the world's top peer-reviewed journals."
+  }
+{
+    "id": 51,
+    "url": "https://www.loc.gov/",
+    "topic": "General History",
+    "label": "Correct",
+    "reasoning": "Library of Congress; the largest library in the world, primary source documents."
+  },
+  {
+    "id": 52,
+    "url": "https://www.britannica.com/event/World-War-II",
+    "topic": "WWII",
+    "label": "Correct",
+    "reasoning": "Encyclopedia Britannica; fact-checked and edited by historians."
+  },
+  {
+    "id": 53,
+    "url": "https://www.history.com/shows/ancient-aliens",
+    "topic": "Ancient History",
+    "label": "Incorrect",
+    "reasoning": "Ancient Aliens promotes the 'Ancient Astronaut Theory', attributing human achievements to aliens (pseudo-history)."
+  },
+  {
+    "id": 54,
+    "url": "https://www.si.edu/museums/air-and-space-museum",
+    "topic": "Aviation History",
+    "label": "Correct",
+    "reasoning": "Smithsonian National Air and Space Museum; verified historical artifacts and records."
+  },
+  {
+    "id": 55,
+    "url": "https://www.buzzfeed.com/history",
+    "topic": "Pop History",
+    "label": "Partially Correct",
+    "reasoning": "Often based on real events but exaggerated or lacking context for entertainment."
+  },
+  {
+    "id": 56,
+    "url": "https://www.gaia.com/article/tartaria-and-the-mud-flood",
+    "topic": "Conspiracies",
+    "label": "Incorrect",
+    "reasoning": "Promotes the 'Tartaria/Mud Flood' conspiracy, which is fictional and unsupported by evidence."
+  },
+  {
+    "id": 57,
+    "url": "https://www.reddit.com/r/AskHistorians/",
+    "topic": "General History",
+    "label": "Correct",
+    "reasoning": "Strictly moderated; answers require citations from historians and experts."
+  },
+  {
+    "id": 58,
+    "url": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "topic": "US History",
+    "label": "Correct",
+    "reasoning": "National Archives; official government record of the Declaration of Independence."
+  },
+  {
+    "id": 59,
+    "url": "https://www.atlantisquest.com/",
+    "topic": "Archaeology",
+    "label": "Incorrect",
+    "reasoning": "Presents the myth of Atlantis as a real civilization; lacks archaeological evidence."
+  },
+  {
+    "id": 60,
+    "url": "https://www.ranker.com/list/historical-myths/history",
+    "topic": "Myths",
+    "label": "Partially Correct",
+    "reasoning": "User-voted content; sometimes debunks myths but can spread others depending on submissions."
+  },
+  {
+    "id": 61,
+    "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+    "topic": "WWII",
+    "label": "Correct",
+    "reasoning": "US Holocaust Memorial Museum; historically accurate and rigorously verified."
+  },
+  {
+    "id": 62,
+    "url": "https://www.newchronology.org/",
+    "topic": "Chronology",
+    "label": "Incorrect",
+    "reasoning": "Promotes the 'Phantom Time Hypothesis', which has been debunked by archaeology and astronomy."
+  },
+  {
+    "id": 63,
+    "url": "https://www.biography.com/political-figure/abraham-lincoln",
+    "topic": "Biography",
+    "label": "Correct",
+    "reasoning": "Biography.com is a reputable source for historical figures."
+  },
+  {
+    "id": 64,
+    "url": "https://www.netflix.com/title/80174608",
+    "topic": "Documentary",
+    "label": "Partially Correct",
+    "reasoning": "Ancient Apocalypse presents real sites but draws scientifically rejected conclusions about a 'lost civilization'."
+  },
+  {
+    "id": 65,
+    "url": "https://www.bbc.co.uk/history/historic_figures/",
+    "topic": "Biography",
+    "label": "Correct",
+    "reasoning": "BBC History; reliable and educational."
+  },
+  {
+    "id": 66,
+    "url": "https://icr.org/men-dinosaurs",
+    "topic": "Pre-History",
+    "label": "Incorrect",
+    "reasoning": "Claims humans and dinosaurs coexisted; contradicts fossil records and radiometric dating."
+  },
+  {
+    "id": 67,
+    "url": "https://www.historyextra.com/",
+    "topic": "General History",
+    "label": "Partially Correct",
+    "reasoning": "Owned by BBC but focuses on narrative-friendly articles instead of academic depth."
+  },
+  {
+    "id": 68,
+    "url": "https://www.cia.gov/readingroom/historical-collections",
+    "topic": "Cold War",
+    "label": "Correct",
+    "reasoning": "CIA FOIA Reading Room; declassified government documents."
+  },
+  {
+    "id": 69,
+    "url": "https://www.medievalists.net/",
+    "topic": "Medieval",
+    "label": "Correct",
+    "reasoning": "Academic news site run by historians specializing in medieval studies."
+  },
+  {
+    "id": 70,
+    "url": "https://mysteriousuniverse.org/category/ancient-mysteries/",
+    "topic": "Ancient History",
+    "label": "Incorrect",
+    "reasoning": "Promotes paranormal explanations (ghosts, cryptids) for historical events."
+  },
+  {
+    "id": 71,
+    "url": "https://www.snopes.com/fact-check/napoleon-short/",
+    "topic": "19th Century",
+    "label": "Correct",
+    "reasoning": "Snopes debunks the commonly repeated myth that Napoleon was short."
+  },
+  {
+    "id": 72,
+    "url": "https://www.youtube.com/watch?v=J_1j8u_7f_U",
+    "topic": "General History",
+    "label": "Partially Correct",
+    "reasoning": "Oversimplified videos are broadly accurate but simplify complex political and social context."
+  },
+  {
+    "id": 73,
+    "url": "https://avalon.law.yale.edu/",
+    "topic": "Legal History",
+    "label": "Correct",
+    "reasoning": "Yale Law School's Avalon Project; primary historical legal documents."
+  },
+  {
+    "id": 74,
+    "url": "https://www.chick.com/products/tract?stk=0055",
+    "topic": "Religious Hist",
+    "label": "Incorrect",
+    "reasoning": "Chick Tracts present conspiracy theories and historically inaccurate narratives."
+  },
+  {
+    "id": 75,
+    "url": "https://www.annefrank.org/en/",
+    "topic": "WWII",
+    "label": "Correct",
+    "reasoning": "Official Anne Frank House museum site; accurate historical information."
+  },
+  {
+    "id": 76,
+    "url": "https://www.ancient-origins.net/",
+    "topic": "Archaeology",
+    "label": "Partially Correct",
+    "reasoning": "Reports real discoveries but often mixes in speculative or fringe theories."
+  },
+  {
+    "id": 77,
+    "url": "https://www.nps.gov/index.htm",
+    "topic": "US History",
+    "label": "Correct",
+    "reasoning": "National Park Service; manages historical sites with accurate information."
+  },
+  {
+    "id": 78,
+    "url": "https://time.com/section/history/",
+    "topic": "Modern History",
+    "label": "Correct",
+    "reasoning": "Time Magazine history section; reputable journalism."
+  },
+  {
+    "id": 79,
+    "url": "https://fakehistoryhunter.net/",
+    "topic": "Meta-History",
+    "label": "Correct",
+    "reasoning": "Dedicated to debunking fake history images and misinformation online."
+  },
+  {
+    "id": 80,
+    "url": "https://www.reddit.com/r/history/",
+    "topic": "General History",
+    "label": "Partially Correct",
+    "reasoning": "User-generated content; may contain misconceptions compared to expert communities."
+  },
+  {
+    "id": 81,
+    "url": "https://www.perseus.tufts.edu/hopper/",
+    "topic": "Ancient Greece",
+    "label": "Correct",
+    "reasoning": "Tufts University digital library with original Greek texts and academic translations."
+  },
+  {
+    "id": 82,
+    "url": "https://www.gavinmenzies.net/",
+    "topic": "Exploration",
+    "label": "Incorrect",
+    "reasoning": "Claims the Chinese discovered America in 1421; rejected by historians due to lack of evidence."
+  },
+  {
+    "id": 83,
+    "url": "https://www.britishmuseum.org/",
+    "topic": "World History",
+    "label": "Correct",
+    "reasoning": "Official site of the British Museum; historically rigorous sources."
+  },
+  {
+    "id": 84,
+    "url": "https://www.thevintagenews.com/",
+    "topic": "Pop History",
+    "label": "Partially Correct",
+    "reasoning": "Uses clickbait and may mislabel or dramatize historical photos for engagement."
+  },
+  {
+    "id": 85,
+    "url": "https://www.nobelprize.org/prizes/peace/",
+    "topic": "History",
+    "label": "Correct",
+    "reasoning": "Official Nobel Prize site; accurate records of laureates and awards."
+  },
+  {
+    "id": 86,
+    "url": "https://www.whitehouse.gov/about-the-white-house/presidents/",
+    "topic": "US History",
+    "label": "Correct",
+    "reasoning": "Official biographies of U.S. Presidents provided by the White House."
+  },
+  {
+    "id": 87,
+    "url": "https://biblearchaeologyreport.com/",
+    "topic": "Biblical Arch",
+    "label": "Partially Correct",
+    "reasoning": "Covers real digs but interprets everything to confirm biblical narratives, ignoring conflicting evidence."
+  },
+  {
+    "id": 88,
+    "url": "https://humanorigins.si.edu/",
+    "topic": "Evolution",
+    "label": "Correct",
+    "reasoning": "Smithsonian Human Origins program; accurate anthropological and evolutionary science."
+  },
+  {
+    "id": 89,
+    "url": "https://www.history.co.uk/shows/hunting-hitler",
+    "topic": "WWII",
+    "label": "Incorrect",
+    "reasoning": "Suggests Hitler escaped to Argentina; contradicted by historical and forensic evidence."
+  },
+  {
+    "id": 90,
+    "url": "https://www.jstor.org/",
+    "topic": "Academic Hist",
+    "label": "Correct",
+    "reasoning": "Platform hosting peer-reviewed academic journals."
+  },
+  {
+    "id": 91,
+    "url": "https://www.theholocaustexplained.org/",
+    "topic": "WWII",
+    "label": "Correct",
+    "reasoning": "Educational site providing accurate, vetted Holocaust history."
+  },
+  {
+    "id": 92,
+    "url": "https://www.imdb.com/title/tt0050083/",
+    "topic": "Movie Hist",
+    "label": "Incorrect",
+    "reasoning": "‘10,000 BC’ presents impossible historical events, such as mammoths building pyramids."
+  },
+  {
+    "id": 93,
+    "url": "https://archive.org/",
+    "topic": "Archives",
+    "label": "Correct",
+    "reasoning": "Internet Archive; non-profit digital library preserving historical materials."
+  },
+  {
+    "id": 94,
+    "url": "https://www.cracked.com/category/history",
+    "topic": "Pop History",
+    "label": "Partially Correct",
+    "reasoning": "Comedy-focused site; facts are sometimes cherry-picked or exaggerated for humor."
+  },
+  {
+    "id": 95,
+    "url": "https://www.battlefields.org/",
+    "topic": "Military Hist",
+    "label": "Correct",
+    "reasoning": "American Battlefield Trust; preserves battlegrounds and provides educational resources."
+  },
+  {
+    "id": 96,
+    "url": "https://www.shroud.com/",
+    "topic": "Religious Hist",
+    "label": "Partially Correct",
+    "reasoning": "Presents scientific data but strongly biased toward authenticity despite contradicting carbon dating."
+  },
+  {
+    "id": 97,
+    "url": "https://www.historynet.com/",
+    "topic": "Military Hist",
+    "label": "Correct",
+    "reasoning": "Publisher of multiple reputable history magazines."
+  },
+  {
+    "id": 98,
+    "url": "https://allthatsinteresting.com/",
+    "topic": "Pop History",
+    "label": "Partially Correct",
+    "reasoning": "Covers real topics but often sensationalizes for clicks."
+  },
+  {
+    "id": 99,
+    "url": "http://www.badarchaeology.com/",
+    "topic": "Archaeology",
+    "label": "Correct",
+    "reasoning": "Run by archaeologists to debunk pseudoscientific archaeological claims."
+  },
+  {
+    "id": 100,
+    "url": "https://knowyourmeme.com/memes/cultures/history",
+    "topic": "Internet Hist",
+    "label": "Partially Correct",
+    "reasoning": "Accurate for internet meme history but not a credible source for real-world historical events."
+  }
+
+  {
+    "id": 101,
+    "url": "https://developer.mozilla.org/en-US/",
+    "topic": "Web Dev",
+    "label": "Correct",
+    "reasoning": "MDN Web Docs; authoritative resource for web standards (HTML/CSS/JS), maintained by Mozilla."
+  },
+  {
+    "id": 102,
+    "url": "https://www.w3.org/",
+    "topic": "Standards",
+    "label": "Correct",
+    "reasoning": "World Wide Web Consortium; official international standards body for the Web."
+  },
+  {
+    "id": 103,
+    "url": "https://downloadmoreram.com/",
+    "topic": "Hardware",
+    "label": "Incorrect",
+    "reasoning": "Satirical site; RAM cannot be downloaded because it is physical hardware."
+  },
+  {
+    "id": 104,
+    "url": "https://www.apple.com/newsroom/",
+    "topic": "Consumer Tech",
+    "label": "Correct",
+    "reasoning": "Official Apple newsroom; provides primary, accurate product information."
+  },
+  {
+    "id": 105,
+    "url": "https://www.macrumors.com/",
+    "topic": "Consumer Tech",
+    "label": "Partially Correct",
+    "reasoning": "Accurate on released products, but also publishes rumors/speculation on upcoming devices."
+  },
+  {
+    "id": 106,
+    "url": "https://onecoin.eu/",
+    "topic": "Crypto",
+    "label": "Incorrect",
+    "reasoning": "OneCoin was a Ponzi scheme marketed as a cryptocurrency; no blockchain existed."
+  },
+  {
+    "id": 107,
+    "url": "https://www.stop5ginternational.org/",
+    "topic": "Telecom",
+    "label": "Incorrect",
+    "reasoning": "Claims 5G causes health/environmental damage; these claims are scientifically disproven."
+  },
+  {
+    "id": 108,
+    "url": "https://www.python.org/doc/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official documentation for the Python programming language."
+  },
+  {
+    "id": 109,
+    "url": "https://cpu.userbenchmark.com/",
+    "topic": "Hardware",
+    "label": "Partially Correct",
+    "reasoning": "Shows real user data, but benchmarking algorithm is biased toward Intel CPUs."
+  },
+  {
+    "id": 110,
+    "url": "https://www.nist.gov/",
+    "topic": "Standards",
+    "label": "Correct",
+    "reasoning": "National Institute of Standards and Technology; authoritative US measurement lab."
+  },
+  {
+    "id": 111,
+    "url": "https://www.theranos.com/",
+    "topic": "Biotech",
+    "label": "Incorrect",
+    "reasoning": "Theranos falsely claimed accurate blood tests from a single drop; proven fraudulent."
+  },
+  {
+    "id": 112,
+    "url": "https://arstechnica.com/",
+    "topic": "Tech News",
+    "label": "Correct",
+    "reasoning": "Ars Technica is respected for technically rigorous journalism."
+  },
+  {
+    "id": 113,
+    "url": "https://www.theverge.com/circuitbreaker",
+    "topic": "Gadgets",
+    "label": "Partially Correct",
+    "reasoning": "Specs are accurate, but reviews and 'best' lists are subjective."
+  },
+  {
+    "id": 114,
+    "url": "https://bitcoin.org/bitcoin.pdf",
+    "topic": "Crypto",
+    "label": "Correct",
+    "reasoning": "Bitcoin whitepaper by Satoshi Nakamoto; the foundational document of Bitcoin."
+  },
+  {
+    "id": 115,
+    "url": "https://www.infowars.com/posts/ai-takeover-begins/",
+    "topic": "AI",
+    "label": "Incorrect",
+    "reasoning": "Portrays AI development as a literal hostile takeover; conspiratorial and false."
+  },
+  {
+    "id": 116,
+    "url": "https://www.kernel.org/",
+    "topic": "Software",
+    "label": "Correct",
+    "reasoning": "Primary source for the Linux Kernel."
+  },
+  {
+    "id": 117,
+    "url": "https://www.techradar.com/news/windows-12-release-date",
+    "topic": "OS",
+    "label": "Partially Correct",
+    "reasoning": "Discusses possible Windows 12 based on leaks; not officially confirmed."
+  },
+  {
+    "id": 118,
+    "url": "https://www.bostondynamics.com/",
+    "topic": "Robotics",
+    "label": "Correct",
+    "reasoning": "Official information on robots like Spot and Atlas."
+  },
+  {
+    "id": 119,
+    "url": "https://www.machina-dynamica.com/",
+    "topic": "Audio Tech",
+    "label": "Incorrect",
+    "reasoning": "Sells 'Teleportation Tweak' audio enhancement via phone signal—scientifically impossible."
+  },
+  {
+    "id": 120,
+    "url": "https://stackoverflow.com/",
+    "topic": "Programming",
+    "label": "Partially Correct",
+    "reasoning": "Top answers are reliable, but older answers may contain outdated or incorrect practices."
+  },
+  {
+    "id": 121,
+    "url": "https://www.ieee.org/",
+    "topic": "Engineering",
+    "label": "Correct",
+    "reasoning": "IEEE is the world’s leading engineering standards and research organization."
+  },
+  {
+    "id": 122,
+    "url": "https://www.gsmarena.com/",
+    "topic": "Mobile",
+    "label": "Correct",
+    "reasoning": "Highly accurate database of mobile phone specifications."
+  },
+  {
+    "id": 123,
+    "url": "https://www.educoge.com/",
+    "topic": "Software",
+    "label": "Incorrect",
+    "reasoning": "Warez/crack site often distributing malware; false claims of free licensed software."
+  },
+  {
+    "id": 124,
+    "url": "https://openai.com/research",
+    "topic": "AI",
+    "label": "Correct",
+    "reasoning": "Official OpenAI research publications and technical reports."
+  },
+  {
+    "id": 125,
+    "url": "https://wccftech.com/",
+    "topic": "Hardware",
+    "label": "Partially Correct",
+    "reasoning": "Publishes real tech news but also spreads unverified hardware leaks."
+  },
+  {
+    "id": 126,
+    "url": "https://aws.amazon.com/what-is-cloud-computing/",
+    "topic": "Cloud",
+    "label": "Correct",
+    "reasoning": "Accurate educational content by Amazon Web Services."
+  },
+  {
+    "id": 127,
+    "url": "https://electricuniverse.info/",
+    "topic": "Physics/Tech",
+    "label": "Incorrect",
+    "reasoning": "Electric Universe claims contradict astrophysics, gravity, and plasma physics."
+  },
+  {
+    "id": 128,
+    "url": "https://www.snopes.com/fact-check/bill-gates-microchips-vaccine/",
+    "topic": "Tech/Conspiracy",
+    "label": "Correct",
+    "reasoning": "Fact-check debunking the false claim that vaccines contain microchips."
+  },
+  {
+    "id": 129,
+    "url": "https://slashdot.org/",
+    "topic": "Tech News",
+    "label": "Partially Correct",
+    "reasoning": "Stories are typically accurate; user comments vary widely in accuracy."
+  },
+  {
+    "id": 130,
+    "url": "https://www.spacex.com/media/starlink_astronomy_guide.pdf",
+    "topic": "Space Tech",
+    "label": "Correct",
+    "reasoning": "Official technical document from SpaceX regarding satellite reflectivity."
+  },
+  {
+    "id": 131,
+    "url": "https://www.bleepingcomputer.com/",
+    "topic": "Cybersecurity",
+    "label": "Correct",
+    "reasoning": "Highly reputable site covering security breaches and malware."
+  },
+  {
+    "id": 132,
+    "url": "http://timecube.2enp.com/",
+    "topic": "Philosophy/Tech",
+    "label": "Incorrect",
+    "reasoning": "Time Cube is a nonsensical theory rejecting mathematics and basic physics."
+  },
+  {
+    "id": 133,
+    "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+    "topic": "AI Ethics",
+    "label": "Partially Correct",
+    "reasoning": "Represents opinions and concerns from experts; not presenting empirical facts."
+  },
+  {
+    "id": 134,
+    "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/",
+    "topic": "Hardware",
+    "label": "Correct",
+    "reasoning": "Official specifications from NVIDIA."
+  },
+  {
+    "id": 135,
+    "url": "https://www.instructables.com/Free-Energy-Generator/",
+    "topic": "Engineering",
+    "label": "Incorrect",
+    "reasoning": "Describes a perpetual motion machine, violating the laws of thermodynamics."
+  },
+  {
+    "id": 136,
+    "url": "https://archive.org/web/",
+    "topic": "Internet",
+    "label": "Correct",
+    "reasoning": "The Wayback Machine; digitally preserves historical versions of websites."
+  },
+  {
+    "id": 137,
+    "url": "https://cryptozoo.co/",
+    "topic": "Gaming/Crypto",
+    "label": "Incorrect",
+    "reasoning": "A failed NFT project associated with financial losses and broken promises."
+  },
+  {
+    "id": 138,
+    "url": "https://www.cnet.com/",
+    "topic": "Tech News",
+    "label": "Partially Correct",
+    "reasoning": "Generally reliable but recently published AI-generated articles containing errors."
+  },
+  {
+    "id": 139,
+    "url": "https://github.com/",
+    "topic": "Software",
+    "label": "Correct",
+    "reasoning": "Industry-standard platform for hosting code and tracking version history."
+  },
+  {
+    "id": 140,
+    "url": "https://www.torproject.org/",
+    "topic": "Privacy",
+    "label": "Correct",
+    "reasoning": "Official site for Tor; accurate privacy and security documentation."
+  },
+  {
+    "id": 141,
+    "url": "https://www.reddit.com/r/UFOs/",
+    "topic": "Sci-Tech",
+    "label": "Partially Correct",
+    "reasoning": "Mix of confirmed government UAP videos and debunked or speculative posts."
+  },
+  {
+    "id": 142,
+    "url": "https://haveibeenpwned.com/",
+    "topic": "Security",
+    "label": "Correct",
+    "reasoning": "Reliable source for checking if email addresses appear in data breaches."
+  },
+  {
+    "id": 143,
+    "url": "https://www.metabunk.org/",
+    "topic": "Debunking",
+    "label": "Correct",
+    "reasoning": "Community dedicated to evidence-based debunking of misinformation and conspiracy theories."
+  },
+  {
+    "id": 144,
+    "url": "https://www.goop.com/wellness/health/body-vibes-wearable-stickers/",
+    "topic": "Bio-Hacking",
+    "label": "Incorrect",
+    "reasoning": "Claims 'bio-frequency' stickers use NASA tech for healing; medically unproven and debunked."
+  },
+  {
+    "id": 145,
+    "url": "https://www.engadget.com/",
+    "topic": "Tech News",
+    "label": "Correct",
+    "reasoning": "Long-standing tech journalism outlet covering consumer electronics."
+  },
+  {
+    "id": 146,
+    "url": "https://coinmarketcap.com/",
+    "topic": "Crypto",
+    "label": "Correct",
+    "reasoning": "Accurate live cryptocurrency market data and historical charts."
+  },
+  {
+    "id": 147,
+    "url": "https://www.quora.com/Can-viruses-physically-damage-hardware",
+    "topic": "Computing",
+    "label": "Partially Correct",
+    "reasoning": "Top answers explain most viruses cannot damage hardware, but some older ones (like CIH) could. Mixed user responses."
+  },
+  {
+    "id": 148,
+    "url": "https://www.iso.org/home.html",
+    "topic": "Standards",
+    "label": "Correct",
+    "reasoning": "International Organization for Standardization; authoritative global standards body."
+  },
+  {
+    "id": 149,
+    "url": "https://www.light-phone.com/",
+    "topic": "Product",
+    "label": "Correct",
+    "reasoning": "Official site for the Light Phone; provides accurate product specifications."
+  },
+  {
+    "id": 150,
+    "url": "https://www.naturalnews.com/053474_5G_radiation_mind_control.html",
+    "topic": "Telecom",
+    "label": "Incorrect",
+    "reasoning": "Claims 5G is a mind-control weapon; conspiracy theory without scientific basis."
+  }
+ {
+    "id": 151,
+    "url": "https://www.heart.org/",
+    "topic": "Cardiology",
+    "label": "Correct",
+    "reasoning": "American Heart Association; official guidelines on heart health and stroke prevention."
+  },
+  {
+    "id": 152,
+    "url": "https://www.diabetes.org/",
+    "topic": "Disease",
+    "label": "Correct",
+    "reasoning": "American Diabetes Association; authoritative resource for diabetes management standards."
+  },
+  {
+    "id": 153,
+    "url": "https://gerson.org/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Promotes 'Gerson Therapy' as a cancer cure; scientifically disproven and potentially dangerous."
+  },
+  {
+    "id": 154,
+    "url": "https://www.menshealth.com/nutrition/a19522432/creatine-side-effects/",
+    "topic": "Fitness",
+    "label": "Partially Correct",
+    "reasoning": "Generally accurate but sometimes exaggerates risks and benefits for engagement."
+  },
+  {
+    "id": 155,
+    "url": "https://pubmed.ncbi.nlm.nih.gov/",
+    "topic": "Research",
+    "label": "Correct",
+    "reasoning": "National Library of Medicine database of peer-reviewed biomedical literature."
+  },
+  {
+    "id": 156,
+    "url": "https://www.infowars.com/store/nutrition",
+    "topic": "Supplements",
+    "label": "Incorrect",
+    "reasoning": "Sells supplements with exaggerated and unverified medical claims."
+  },
+  {
+    "id": 157,
+    "url": "https://www.webmd.com/",
+    "topic": "General Health",
+    "label": "Partially Correct",
+    "reasoning": "Mostly accurate but often criticized for causing unnecessary anxiety by listing rare severe conditions."
+  },
+  {
+    "id": 158,
+    "url": "https://www.homeopathy-uk.org/",
+    "topic": "Homeopathy",
+    "label": "Incorrect",
+    "reasoning": "Promotes homeopathy, which has been proven no more effective than placebo."
+  },
+  {
+    "id": 159,
+    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "topic": "Public Health",
+    "label": "Correct",
+    "reasoning": "WHO official fact sheet with evidence-based data."
+  },
+  {
+    "id": 160,
+    "url": "https://www.foodbabe.com/microwave-popcorn/",
+    "topic": "Nutrition",
+    "label": "Incorrect",
+    "reasoning": "Misrepresents microwave popcorn risks; 'popcorn lung' applies only to factory workers with extreme exposure."
+  },
+  {
+    "id": 161,
+    "url": "https://www.reddit.com/r/keto/",
+    "topic": "Diet",
+    "label": "Partially Correct",
+    "reasoning": "Keto success stories exist but the subreddit contains unverified and sometimes harmful diet advice."
+  },
+  {
+    "id": 162,
+    "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+    "topic": "Nutrition",
+    "label": "Correct",
+    "reasoning": "NIH Office of Dietary Supplements; the most reliable source for supplement facts."
+  },
+  {
+    "id": 163,
+    "url": "https://www.naturalnews.com/046516_ebola_outbreak_colloidal_silver_government_seizure.html",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Falsely claims colloidal silver cures Ebola; FDA has issued multiple warnings against this."
+  },
+  {
+    "id": 164,
+    "url": "https://examine.com/",
+    "topic": "Supplements",
+    "label": "Correct",
+    "reasoning": "Independent, evidence-based database analyzing supplement research."
+  },
+  {
+    "id": 165,
+    "url": "https://www.cosmopolitan.com/health-fitness/",
+    "topic": "Lifestyle",
+    "label": "Partially Correct",
+    "reasoning": "Contains some valid guidance but also trend-based or anecdotal health content."
+  },
+  {
+    "id": 166,
+    "url": "https://medlineplus.gov/",
+    "topic": "General Health",
+    "label": "Correct",
+    "reasoning": "National Library of Medicine consumer health information."
+  },
+  {
+    "id": 167,
+    "url": "https://dadamo.com/",
+    "topic": "Diet",
+    "label": "Incorrect",
+    "reasoning": "Promotes the 'Blood Type Diet,' which has been scientifically debunked."
+  },
+  {
+    "id": 168,
+    "url": "https://www.cochrane.org/",
+    "topic": "Research",
+    "label": "Correct",
+    "reasoning": "Cochrane provides rigorous systematic reviews of healthcare interventions."
+  },
+  {
+    "id": 169,
+    "url": "https://www.bodybuilding.com/fun/top-10-supplements.html",
+    "topic": "Fitness",
+    "label": "Partially Correct",
+    "reasoning": "Lists legitimate supplements but exaggerates effects with marketing language."
+  },
+  {
+    "id": 170,
+    "url": "https://vaxxter.com/",
+    "topic": "Vaccines",
+    "label": "Incorrect",
+    "reasoning": "Anti-vaccine website spreading debunked claims about vaccine safety."
+  },
+  {
+    "id": 171,
+    "url": "https://www.cancer.gov/",
+    "topic": "Oncology",
+    "label": "Correct",
+    "reasoning": "National Cancer Institute; authoritative cancer research and treatment guidelines."
+  },
+  {
+    "id": 172,
+    "url": "https://thetruthaboutcancer.com/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Claims chemotherapy is a fraud and promotes unproven 'natural cures.'"
+  },
+  {
+    "id": 173,
+    "url": "https://www.sleepfoundation.org/",
+    "topic": "Sleep",
+    "label": "Correct",
+    "reasoning": "Trusted nonprofit providing evidence-based sleep science."
+  },
+  {
+    "id": 174,
+    "url": "https://www.bulletproof.com/diet/",
+    "topic": "Diet",
+    "label": "Partially Correct",
+    "reasoning": "Provides some valid advice but promotes unproven claims such as 'mycotoxin-free' coffee necessity."
+  },
+  {
+    "id": 175,
+    "url": "https://www.nhs.uk/",
+    "topic": "General Health",
+    "label": "Correct",
+    "reasoning": "UK National Health Service; official patient information."
+  },
+  {
+    "id": 176,
+    "url": "https://www.medicalmedium.com/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Claims to receive health guidance from a 'Spirit.' Promotes pseudoscientific cures."
+  },
+  {
+    "id": 177,
+    "url": "https://www.nutrition.gov/",
+    "topic": "Nutrition",
+    "label": "Correct",
+    "reasoning": "USDA-sponsored authoritative nutrition resource."
+  },
+  {
+    "id": 178,
+    "url": "https://www.tiktok.com/tag/weightloss",
+    "topic": "Social Media",
+    "label": "Partially Correct",
+    "reasoning": "Mix of legitimate fitness advice and unsafe viral trends."
+  },
+  {
+    "id": 179,
+    "url": "https://www.hopkinsmedicine.org/",
+    "topic": "Medical",
+    "label": "Correct",
+    "reasoning": "Johns Hopkins Medicine; top-tier medical research institution."
+  },
+  {
+    "id": 180,
+    "url": "https://goop.com/wellness/detox/the-annual-goop-detox/",
+    "topic": "Wellness",
+    "label": "Incorrect",
+    "reasoning": "'Detox' products lack scientific basis; the body naturally detoxifies through liver and kidneys."
+  },
+  {
+    "id": 181,
+    "url": "https://www.sciencedaily.com/news/health_medicine/",
+    "topic": "Science News",
+    "label": "Correct",
+    "reasoning": "Accurately reports research press releases from universities and institutions."
+  },
+  {
+    "id": 182,
+    "url": "https://www.mindbodygreen.com/",
+    "topic": "Wellness",
+    "label": "Partially Correct",
+    "reasoning": "Good for mindfulness/yoga but mixes spirituality with medical claims inconsistently."
+  },
+  {
+    "id": 183,
+    "url": "https://www.redcrossblood.org/",
+    "topic": "Hematology",
+    "label": "Correct",
+    "reasoning": "American Red Cross; accurate blood donation and type information."
+  },
+  {
+    "id": 184,
+    "url": "https://www.alkalinewaterplus.com/benefits-of-alkaline-water/",
+    "topic": "Nutrition",
+    "label": "Incorrect",
+    "reasoning": "Claims alkaline water changes blood pH; human blood pH is tightly regulated and unaffected by water."
+  },
+  {
+    "id": 185,
+    "url": "https://www.psychiatry.org/patients-families",
+    "topic": "Mental Health",
+    "label": "Correct",
+    "reasoning": "American Psychiatric Association; medically reviewed information on mental conditions."
+  },
+  {
+    "id": 186,
+    "url": "https://draxe.com/",
+    "topic": "Nutrition",
+    "label": "Partially Correct",
+    "reasoning": "Contains some evidence-based info but heavily promotes supplements for profit."
+  },
+  {
+    "id": 187,
+    "url": "https://childrenshealthdefense.org/",
+    "topic": "Vaccines",
+    "label": "Incorrect",
+    "reasoning": "Anti-vaccine organization spreading misinformation about vaccine safety."
+  },
+  {
+    "id": 188,
+    "url": "https://www.mayoclinic.org/",
+    "topic": "General Health",
+    "label": "Correct",
+    "reasoning": "Highly reliable, doctor-reviewed medical information."
+  },
+  {
+    "id": 189,
+    "url": "https://www.quora.com/Does-sugar-cause-cancer",
+    "topic": "Nutrition",
+    "label": "Partially Correct",
+    "reasoning": "Some users explain the Warburg effect correctly; others exaggerate claims linking sugar directly to cancer growth."
+  },
+  {
+    "id": 190,
+    "url": "https://jamanetwork.com/",
+    "topic": "Medical",
+    "label": "Correct",
+    "reasoning": "Journal of the American Medical Association; major peer-reviewed medical journal."
+  },
+  {
+    "id": 191,
+    "url": "https://www.youngliving.com/blog/",
+    "topic": "Essential Oils",
+    "label": "Incorrect",
+    "reasoning": "MLM marketing implying essential oils can replace medical treatment."
+  },
+  {
+    "id": 192,
+    "url": "https://www.aao.org/eye-health",
+    "topic": "Ophthalmology",
+    "label": "Correct",
+    "reasoning": "American Academy of Ophthalmology; authoritative eye health resource."
+  },
+  {
+    "id": 193,
+    "url": "https://www.wikihow.com/Lose-Weight",
+    "topic": "Fitness",
+    "label": "Partially Correct",
+    "reasoning": "Simple advice that is generally safe but often oversimplified and lacking medical nuance."
+  },
+  {
+    "id": 194,
+    "url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+    "topic": "COVID-19",
+    "label": "Correct",
+    "reasoning": "Official CDC guidelines for COVID-19 prevention and treatment."
+  },
+  {
+    "id": 195,
+    "url": "https://www.davidwolfe.com/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Promotes pseudoscience including anti-gravity ideas and unsupported nutrition claims."
+  },
+  {
+    "id": 196,
+    "url": "https://www.eatthis.com/",
+    "topic": "Nutrition",
+    "label": "Partially Correct",
+    "reasoning": "Useful dietary swaps but often uses clickbait and oversimplified claims."
+  },
+  {
+    "id": 197,
+    "url": "https://www.mouthhealthy.org/",
+    "topic": "Dental",
+    "label": "Correct",
+    "reasoning": "American Dental Association; accurate oral health guidance."
+  },
+  {
+    "id": 198,
+    "url": "https://www.snopes.com/fact-check/lemon-juice-cure-cancer/",
+    "topic": "Debunking",
+    "label": "Correct",
+    "reasoning": "Fact-check confirming that lemon juice does not cure cancer."
+  },
+  {
+    "id": 199,
+    "url": "https://modernfertility.com/blog/",
+    "topic": "Repro Health",
+    "label": "Correct",
+    "reasoning": "Covers women’s reproductive health; medically reviewed by specialists."
+  },
+  {
+    "id": 200,
+    "url": "https://realfarmacy.com/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Spreads anti-GMO and anti-pharma misinformation using fear-based claims."
+  }
+]
