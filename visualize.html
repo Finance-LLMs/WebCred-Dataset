@@ -209,10 +209,10 @@
                 currentAngle = endAngle;
             });
             
-            return `<svg viewBox="0 0 ${size} ${size}" width="${size}" height="${size}">${paths.join('')}</svg>`;
+            return `<svg viewBox="0 0 ${size} ${size}" width="${size}" height="${size}" role="img" aria-label="Pie chart visualization">${paths.join('')}</svg>`;
         }
 
-        function createLegend(data, colors, isTopicChart = false) {
+        function createLegend(data, colors) {
             return data.map((item, index) => {
                 const pct = ((item.value / data.reduce((s, i) => s + i.value, 0)) * 100).toFixed(1);
                 return `<div class="legend-item">
@@ -263,7 +263,7 @@
                                 ${createSVGPieChart(sortedTopics, topicColors)}
                             </div>
                             <div class="topic-legend">
-                                ${createLegend(sortedTopics, topicColors, true)}
+                                ${createLegend(sortedTopics, topicColors)}
                             </div>
                         </div>
                         <div class="stats">
