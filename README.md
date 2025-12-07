@@ -1,4 +1,4 @@
-# Website-dataset
+# WebCred Dataset: Annotations for Online Source Reliability
 
 A curated dataset of 200 websites with labels indicating the accuracy of their content (Correct, Incorrect, or Partially Correct) across various topics.
 
