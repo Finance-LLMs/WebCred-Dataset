@@ -348,8 +348,8 @@
     "topic": "General",
     "label": "Correct",
     "reasoning": "Science (AAAS) is one of the world's top peer-reviewed journals."
-  }
-{
+  },
+  {
     "id": 51,
     "url": "https://www.loc.gov/",
     "topic": "General History",
@@ -698,8 +698,7 @@
     "topic": "Internet Hist",
     "label": "Partially Correct",
     "reasoning": "Accurate for internet meme history but not a credible source for real-world historical events."
-  }
-
+  },
   {
     "id": 101,
     "url": "https://developer.mozilla.org/en-US/",
@@ -1049,8 +1048,8 @@
     "topic": "Telecom",
     "label": "Incorrect",
     "reasoning": "Claims 5G is a mind-control weapon; conspiracy theory without scientific basis."
-  }
- {
+  },
+  {
     "id": 151,
     "url": "https://www.heart.org/",
     "topic": "Cardiology",
