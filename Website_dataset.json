@@ -1,94 +1,94 @@
 [
   {
     "id": 1,
-    "url": "https://www.nasa.gov/mission_pages/hubble/main/index.html",
+    "url": "https://www.nasa.gov/",
     "topic": "Astronomy",
     "label": "Correct",
     "reasoning": "Official government agency (NASA); primary source for space data."
   },
   {
     "id": 2,
-    "url": "https://www.cdc.gov/flu/weekly/index.htm",
+    "url": "https://www.cdc.gov/",
     "topic": "Health",
     "label": "Correct",
     "reasoning": "Official CDC data; strictly peer-reviewed and data-backed."
   },
   {
     "id": 3,
-    "url": "https://www.goop.com/wellness/sexual-health/jade-eggs-for-your-yoni/",
+    "url": "https://goop.com/",
     "topic": "Wellness",
     "label": "Incorrect",
     "reasoning": "Promotes 'Jade Eggs' for health benefits; scientifically debunked and fined for false claims."
   },
   {
     "id": 4,
-    "url": "https://creation.com/refuting-evolution-2-chapter-3-argument-evolution-is-true-science-creation-is-religion",
-    "topic": "Evolution",
+    "url": "https://www.aulis.com/",
+    "topic": "Conspiracy",
     "label": "Incorrect",
-    "reasoning": "'Creation Ministries' rejects established evolutionary biology in favor of religious dogma."
+    "reasoning": "Promotes the theory that the Apollo Moon landings were faked; these claims are debunked by physical evidence."
   },
   {
     "id": 5,
-    "url": "https://www.dailymail.co.uk/sciencetech/article-12946961/Alien-life-2024-experts-predict.html",
+    "url": "https://www.dailymail.co.uk/",
     "topic": "Aliens",
     "label": "Partially Correct",
     "reasoning": "Quotes real scientists but uses sensational headlines exaggerating probabilities."
   },
   {
     "id": 6,
-    "url": "https://www.nature.com/articles/d41586-024-00123-x",
+    "url": "https://www.biomedcentral.com/",
     "topic": "Biology",
     "label": "Correct",
-    "reasoning": "Nature is a top-tier peer-reviewed academic journal; highly reliable."
+    "reasoning": "A large portfolio of peer-reviewed open access journals in science and medicine."
   },
   {
     "id": 7,
-    "url": "https://www.naturalnews.com/2024-01-02-mrna-vaccines-cause-turbo-cancer.html",
-    "topic": "Vaccines",
+    "url": "https://thehighwire.com/",
+    "topic": "Anti-Vaccine",
     "label": "Incorrect",
-    "reasoning": "Natural News is a known misinformation site; 'turbo cancer' is not a recognized medical term."
+    "reasoning": "A media outlet that consistently spreads debunked claims about vaccine safety."
   },
   {
     "id": 8,
-    "url": "https://www.reddit.com/r/conspiracy/comments/18x3y5z/the_earth_is_hollow_proof_inside/",
-    "topic": "Geology",
+    "url": "https://freedom-school.com/",
+    "topic": "Pseudo-Law",
     "label": "Incorrect",
-    "reasoning": "User-generated conspiracy claiming Earth is hollow; physically impossible."
+    "reasoning": "Promotes 'Sovereign Citizen' theories claiming individuals can legally opt out of government laws."
   },
   {
     "id": 9,
-    "url": "https://www.quora.com/Is-time-travel-possible-according-to-physics",
+    "url": "https://www.quora.com/",
     "topic": "Physics",
     "label": "Partially Correct",
     "reasoning": "Mix of accurate physics explanations and speculative non-expert opinions."
   },
   {
     "id": 10,
-    "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-and-health",
+    "url": "https://www.who.int/",
     "topic": "Climate",
     "label": "Correct",
-    "reasoning": "WHO official fact sheet; accepted global scientific consensus."
+    "reasoning": "WHO official website; accepted global scientific consensus on climate and health."
   },
   {
     "id": 11,
-    "url": "https://www.infowars.com/posts/globalists-admit-weather-weapons-are-real/",
-    "topic": "Climate",
+    "url": "https://solarhealing.com/",
+    "topic": "Dangerous Pseudoscience",
     "label": "Incorrect",
-    "reasoning": "InfoWars promotes conspiracy theories; misrepresents geoengineering research."
+    "reasoning": "Promotes 'sungazing' for nourishment; medically dangerous and can cause blindness."
   },
   {
     "id": 12,
-    "url": "https://www.scientificamerican.com/article/how-quantum-entanglement-works/",
+    "url": "https://www.scientificamerican.com/",
     "topic": "Physics",
     "label": "Correct",
     "reasoning": "Reputable science journalism explaining physics accurately."
   },
   {
     "id": 13,
-    "url": "https://www.healthline.com/nutrition/alkaline-diet-review",
+    "url": "https://www.healthline.com/",
     "topic": "Nutrition",
     "label": "Partially Correct",
-    "reasoning": "Healthline is generally reliable, but 'alkaline diet' mechanisms are overstated."
+    "reasoning": "Generally reliable, but mechanisms for trends like 'alkaline diet' are sometimes overstated."
   },
   {
     "id": 14,
@@ -99,66 +99,66 @@
   },
   {
     "id": 15,
-    "url": "https://pubchem.ncbi.nlm.nih.gov/compound/Caffeine",
+    "url": "https://pubchem.ncbi.nlm.nih.gov/",
     "topic": "Chemistry",
     "label": "Correct",
     "reasoning": "NIH chemical database; factual and verified."
   },
   {
     "id": 16,
-    "url": "https://www.horoscope.com/us/horoscopes/general/index.aspx",
+    "url": "https://www.horoscope.com/",
     "topic": "Astronomy",
     "label": "Incorrect",
     "reasoning": "Astrology site presenting superstition as science."
   },
   {
     "id": 17,
-    "url": "https://www.buzzfeed.com/badge/science",
+    "url": "https://www.buzzfeed.com/",
     "topic": "General",
     "label": "Partially Correct",
     "reasoning": "Science listicles often oversimplify or exaggerate findings."
   },
   {
     "id": 18,
-    "url": "https://www.spacex.com/vehicles/starship/",
+    "url": "https://www.spacex.com/",
     "topic": "Tech",
     "label": "Correct",
     "reasoning": "Manufacturer specifications; engineering data is accurate."
   },
   {
     "id": 19,
-    "url": "https://articles.mercola.com/sites/articles/archive/2024/01/01/fluoride-toxicity.aspx",
+    "url": "https://www.mercola.com/",
     "topic": "Health",
     "label": "Incorrect",
-    "reasoning": "Mercola frequently spreads health misinformation; exaggerates fluoride toxicity."
+    "reasoning": "Frequently spreads health misinformation and exaggerates toxicity of common substances."
   },
   {
     "id": 20,
-    "url": "https://en.wikipedia.org/wiki/String_theory",
+    "url": "https://en.wikipedia.org/",
     "topic": "Physics",
     "label": "Correct",
-    "reasoning": "Wikipedia science pages are well-moderated and accurate."
+    "reasoning": "Wikipedia science pages are well-moderated and generally accurate."
   },
   {
     "id": 21,
-    "url": "https://patents.google.com/patent/US20060071122A1/en",
+    "url": "https://patents.google.com/",
     "topic": "Physics",
     "label": "Incorrect",
-    "reasoning": "Patent describes impossible 'teleportation system'; patents do not validate scientific feasibility."
+    "reasoning": "Patents do not validate scientific feasibility (e.g., patents exist for impossible devices)."
   },
   {
     "id": 22,
-    "url": "https://www.nationalgeographic.com/animals/mammals/facts/domestic-dog",
+    "url": "https://www.nationalgeographic.com/",
     "topic": "Zoology",
     "label": "Correct",
     "reasoning": "National Geographic provides reputable, evidence-based biological information."
   },
   {
     "id": 23,
-    "url": "https://www.psychologytoday.com/us/blog/navigating-the-love-gap/202401/why-opposites-attract",
+    "url": "https://www.psychologytoday.com/",
     "topic": "Psychology",
     "label": "Partially Correct",
-    "reasoning": "Expert-written but mixes theory with opinion; 'opposites attract' is debated."
+    "reasoning": "Expert-written but mixes established theory with opinion columns."
   },
   {
     "id": 24,
@@ -169,7 +169,7 @@
   },
   {
     "id": 25,
-    "url": "https://www.huffpost.com/section/wellness",
+    "url": "https://www.huffpost.com/",
     "topic": "Wellness",
     "label": "Partially Correct",
     "reasoning": "Promotes wellness trends; mixes valid advice with unsupported health claims."
@@ -183,7 +183,7 @@
   },
   {
     "id": 27,
-    "url": "https://www.theonion.com/study-finds-most-people-dead-within-2-weeks-of-taking-1819580000",
+    "url": "https://www.theonion.com/",
     "topic": "Medical",
     "label": "Incorrect",
     "reasoning": "Satire site; not factual."
@@ -193,46 +193,46 @@
     "url": "https://climate.nasa.gov/",
     "topic": "Climate",
     "label": "Correct",
-    "reasoning": "NASA’s climate science portal; highly reliable."
+    "reasoning": "NASA\u2019s climate science portal; highly reliable."
   },
   {
     "id": 29,
-    "url": "https://www.newscientist.com/article/mg25133480-100-is-it-possible-to-remember-being-born/",
+    "url": "https://www.newscientist.com/",
     "topic": "Psychology",
     "label": "Partially Correct",
-    "reasoning": "Reputable science journalism but the topic is highly speculative."
+    "reasoning": "Reputable science journalism but frequently covers speculative topics."
   },
   {
     "id": 30,
-    "url": "https://answersingenesis.org/dinosaurs/humans/",
+    "url": "https://answersingenesis.org/",
     "topic": "Paleontology",
     "label": "Incorrect",
     "reasoning": "Claims humans lived with dinosaurs; contradicts fossil record."
   },
   {
     "id": 31,
-    "url": "https://www.noaa.gov/weather",
+    "url": "https://www.noaa.gov/",
     "topic": "Meteorology",
     "label": "Correct",
     "reasoning": "NOAA official weather data."
   },
   {
     "id": 32,
-    "url": "https://www.youtube.com/watch?v=PdjHKOPVzC0",
+    "url": "https://www.youtube.com/",
     "topic": "History/Sci",
     "label": "Partially Correct",
     "reasoning": "Ancient Aliens mixes real archaeology with unsupported alien theories."
   },
   {
     "id": 33,
-    "url": "https://www.snopes.com/fact-check/did-nasa-confirm-earth-dark-days/",
+    "url": "https://www.snopes.com/",
     "topic": "General",
     "label": "Correct",
     "reasoning": "Snopes fact-check accurately debunks false claims."
   },
   {
     "id": 34,
-    "url": "https://cern.ch/home",
+    "url": "https://home.cern/",
     "topic": "Physics",
     "label": "Correct",
     "reasoning": "Official CERN website; accurate scientific information."
@@ -246,10 +246,10 @@
   },
   {
     "id": 36,
-    "url": "https://www.ndtv.com/health/5-miracle-foods-that-melt-belly-fat-fast-234567",
+    "url": "https://www.ndtv.com/",
     "topic": "Nutrition",
     "label": "Partially Correct",
-    "reasoning": "Lists healthy foods but falsely claims they 'melt fat fast'."
+    "reasoning": "Lists healthy foods but occasionally claims they 'melt fat fast'."
   },
   {
     "id": 37,
@@ -263,46 +263,46 @@
     "url": "https://www.gaia.com/",
     "topic": "General",
     "label": "Incorrect",
-    "reasoning": "Hosts pseudoscience documentaries."
+    "reasoning": "Hosts pseudoscience documentaries and unsupported theories."
   },
   {
     "id": 39,
-    "url": "https://www.researchgate.net/publication/345678_Climate_Change_Data",
+    "url": "https://www.researchgate.net/",
     "topic": "Science",
     "label": "Correct",
-    "reasoning": "Assuming the uploaded paper is peer-reviewed; ResearchGate hosts legitimate research."
+    "reasoning": "Hosts legitimate research papers (though peer-review status varies by upload)."
   },
   {
     "id": 40,
-    "url": "https://www.menshealth.com/fitness/a19545677/exercises-to-boost-testosterone/",
+    "url": "https://www.menshealth.com/",
     "topic": "Fitness",
     "label": "Partially Correct",
     "reasoning": "Exercises are valid but testosterone-boosting claims often exaggerated."
   },
   {
     "id": 41,
-    "url": "https://www.mayoclinic.org/diseases-conditions/diabetes/symptoms-causes/syc-20371444",
+    "url": "https://www.mayoclinic.org/",
     "topic": "Medical",
     "label": "Correct",
     "reasoning": "Mayo Clinic provides accurate medical information."
   },
   {
     "id": 42,
-    "url": "https://www.biblicalarchaeology.org/daily/biblical-sites-places/noahs-ark-discovered-again/",
+    "url": "https://www.biblicalarchaeology.org/",
     "topic": "Archaeology",
     "label": "Partially Correct",
-    "reasoning": "Discusses archaeological sites but frames them around unsupported Noah’s Ark claims."
+    "reasoning": "Discusses archaeological sites but frames them around unsupported biblical claims."
   },
   {
     "id": 43,
-    "url": "https://www.theflatearthsociety.org/forum/",
+    "url": "https://www.theflatearthsociety.org/",
     "topic": "Physics",
     "label": "Incorrect",
-    "reasoning": "Forum dedicated to rejecting fundamental physics."
+    "reasoning": "Dedicated to rejecting fundamental physics and astronomy."
   },
   {
     "id": 44,
-    "url": "https://plato.stanford.edu/entries/scientific-method/",
+    "url": "https://plato.stanford.edu/",
     "topic": "Philosophy",
     "label": "Correct",
     "reasoning": "Stanford Encyclopedia of Philosophy; academically rigorous."
@@ -323,7 +323,7 @@
   },
   {
     "id": 47,
-    "url": "https://www.reddit.com/r/futurology/",
+    "url": "https://www.reddit.com/",
     "topic": "Tech",
     "label": "Partially Correct",
     "reasoning": "News links often accurate, but predictions/comments include speculation."
@@ -358,49 +358,49 @@
   },
   {
     "id": 52,
-    "url": "https://www.britannica.com/event/World-War-II",
+    "url": "https://www.britannica.com/",
     "topic": "WWII",
     "label": "Correct",
     "reasoning": "Encyclopedia Britannica; fact-checked and edited by historians."
   },
   {
     "id": 53,
-    "url": "https://www.history.com/shows/ancient-aliens",
+    "url": "https://www.history.com/",
     "topic": "Ancient History",
     "label": "Incorrect",
     "reasoning": "Ancient Aliens promotes the 'Ancient Astronaut Theory', attributing human achievements to aliens (pseudo-history)."
   },
   {
     "id": 54,
-    "url": "https://www.si.edu/museums/air-and-space-museum",
+    "url": "https://www.si.edu/",
     "topic": "Aviation History",
     "label": "Correct",
     "reasoning": "Smithsonian National Air and Space Museum; verified historical artifacts and records."
   },
   {
     "id": 55,
-    "url": "https://www.buzzfeed.com/history",
+    "url": "https://www.buzzfeed.com/",
     "topic": "Pop History",
     "label": "Partially Correct",
     "reasoning": "Often based on real events but exaggerated or lacking context for entertainment."
   },
   {
     "id": 56,
-    "url": "https://www.gaia.com/article/tartaria-and-the-mud-flood",
+    "url": "https://www.gaia.com/",
     "topic": "Conspiracies",
     "label": "Incorrect",
     "reasoning": "Promotes the 'Tartaria/Mud Flood' conspiracy, which is fictional and unsupported by evidence."
   },
   {
     "id": 57,
-    "url": "https://www.reddit.com/r/AskHistorians/",
+    "url": "https://www.reddit.com/",
     "topic": "General History",
     "label": "Correct",
-    "reasoning": "Strictly moderated; answers require citations from historians and experts."
+    "reasoning": "Strictly moderated (r/AskHistorians); answers require citations from historians and experts."
   },
   {
     "id": 58,
-    "url": "https://www.archives.gov/founding-docs/declaration-transcript",
+    "url": "https://www.archives.gov/",
     "topic": "US History",
     "label": "Correct",
     "reasoning": "National Archives; official government record of the Declaration of Independence."
@@ -414,14 +414,14 @@
   },
   {
     "id": 60,
-    "url": "https://www.ranker.com/list/historical-myths/history",
+    "url": "https://www.ranker.com/",
     "topic": "Myths",
     "label": "Partially Correct",
     "reasoning": "User-voted content; sometimes debunks myths but can spread others depending on submissions."
   },
   {
     "id": 61,
-    "url": "https://encyclopedia.ushmm.org/content/en/article/introduction-to-the-holocaust",
+    "url": "https://www.ushmm.org/",
     "topic": "WWII",
     "label": "Correct",
     "reasoning": "US Holocaust Memorial Museum; historically accurate and rigorously verified."
@@ -435,28 +435,28 @@
   },
   {
     "id": 63,
-    "url": "https://www.biography.com/political-figure/abraham-lincoln",
+    "url": "https://www.biography.com/",
     "topic": "Biography",
     "label": "Correct",
     "reasoning": "Biography.com is a reputable source for historical figures."
   },
   {
     "id": 64,
-    "url": "https://www.netflix.com/title/80174608",
+    "url": "https://www.netflix.com/",
     "topic": "Documentary",
     "label": "Partially Correct",
     "reasoning": "Ancient Apocalypse presents real sites but draws scientifically rejected conclusions about a 'lost civilization'."
   },
   {
     "id": 65,
-    "url": "https://www.bbc.co.uk/history/historic_figures/",
+    "url": "https://www.bbc.co.uk/",
     "topic": "Biography",
     "label": "Correct",
     "reasoning": "BBC History; reliable and educational."
   },
   {
     "id": 66,
-    "url": "https://icr.org/men-dinosaurs",
+    "url": "https://www.icr.org/",
     "topic": "Pre-History",
     "label": "Incorrect",
     "reasoning": "Claims humans and dinosaurs coexisted; contradicts fossil records and radiometric dating."
@@ -470,7 +470,7 @@
   },
   {
     "id": 68,
-    "url": "https://www.cia.gov/readingroom/historical-collections",
+    "url": "https://www.cia.gov/",
     "topic": "Cold War",
     "label": "Correct",
     "reasoning": "CIA FOIA Reading Room; declassified government documents."
@@ -484,21 +484,21 @@
   },
   {
     "id": 70,
-    "url": "https://mysteriousuniverse.org/category/ancient-mysteries/",
+    "url": "https://mysteriousuniverse.org/",
     "topic": "Ancient History",
     "label": "Incorrect",
     "reasoning": "Promotes paranormal explanations (ghosts, cryptids) for historical events."
   },
   {
     "id": 71,
-    "url": "https://www.snopes.com/fact-check/napoleon-short/",
+    "url": "https://www.snopes.com/",
     "topic": "19th Century",
     "label": "Correct",
     "reasoning": "Snopes debunks the commonly repeated myth that Napoleon was short."
   },
   {
     "id": 72,
-    "url": "https://www.youtube.com/watch?v=J_1j8u_7f_U",
+    "url": "https://www.youtube.com/",
     "topic": "General History",
     "label": "Partially Correct",
     "reasoning": "Oversimplified videos are broadly accurate but simplify complex political and social context."
@@ -512,14 +512,14 @@
   },
   {
     "id": 74,
-    "url": "https://www.chick.com/products/tract?stk=0055",
+    "url": "https://www.chick.com/",
     "topic": "Religious Hist",
     "label": "Incorrect",
     "reasoning": "Chick Tracts present conspiracy theories and historically inaccurate narratives."
   },
   {
     "id": 75,
-    "url": "https://www.annefrank.org/en/",
+    "url": "https://www.annefrank.org/",
     "topic": "WWII",
     "label": "Correct",
     "reasoning": "Official Anne Frank House museum site; accurate historical information."
@@ -533,14 +533,14 @@
   },
   {
     "id": 77,
-    "url": "https://www.nps.gov/index.htm",
+    "url": "https://www.nps.gov/",
     "topic": "US History",
     "label": "Correct",
     "reasoning": "National Park Service; manages historical sites with accurate information."
   },
   {
     "id": 78,
-    "url": "https://time.com/section/history/",
+    "url": "https://time.com/",
     "topic": "Modern History",
     "label": "Correct",
     "reasoning": "Time Magazine history section; reputable journalism."
@@ -554,7 +554,7 @@
   },
   {
     "id": 80,
-    "url": "https://www.reddit.com/r/history/",
+    "url": "https://www.reddit.com/",
     "topic": "General History",
     "label": "Partially Correct",
     "reasoning": "User-generated content; may contain misconceptions compared to expert communities."
@@ -589,14 +589,14 @@
   },
   {
     "id": 85,
-    "url": "https://www.nobelprize.org/prizes/peace/",
+    "url": "https://www.nobelprize.org/",
     "topic": "History",
     "label": "Correct",
     "reasoning": "Official Nobel Prize site; accurate records of laureates and awards."
   },
   {
     "id": 86,
-    "url": "https://www.whitehouse.gov/about-the-white-house/presidents/",
+    "url": "https://www.whitehouse.gov/",
     "topic": "US History",
     "label": "Correct",
     "reasoning": "Official biographies of U.S. Presidents provided by the White House."
@@ -617,7 +617,7 @@
   },
   {
     "id": 89,
-    "url": "https://www.history.co.uk/shows/hunting-hitler",
+    "url": "https://www.history.co.uk/",
     "topic": "WWII",
     "label": "Incorrect",
     "reasoning": "Suggests Hitler escaped to Argentina; contradicted by historical and forensic evidence."
@@ -638,10 +638,10 @@
   },
   {
     "id": 92,
-    "url": "https://www.imdb.com/title/tt0050083/",
+    "url": "https://www.imdb.com/",
     "topic": "Movie Hist",
     "label": "Incorrect",
-    "reasoning": "‘10,000 BC’ presents impossible historical events, such as mammoths building pyramids."
+    "reasoning": "\u201810,000 BC\u2019 presents impossible historical events, such as mammoths building pyramids."
   },
   {
     "id": 93,
@@ -652,7 +652,7 @@
   },
   {
     "id": 94,
-    "url": "https://www.cracked.com/category/history",
+    "url": "https://www.cracked.com/",
     "topic": "Pop History",
     "label": "Partially Correct",
     "reasoning": "Comedy-focused site; facts are sometimes cherry-picked or exaggerated for humor."
@@ -694,14 +694,14 @@
   },
   {
     "id": 100,
-    "url": "https://knowyourmeme.com/memes/cultures/history",
+    "url": "https://knowyourmeme.com/",
     "topic": "Internet Hist",
     "label": "Partially Correct",
     "reasoning": "Accurate for internet meme history but not a credible source for real-world historical events."
   },
   {
     "id": 101,
-    "url": "https://developer.mozilla.org/en-US/",
+    "url": "https://developer.mozilla.org/",
     "topic": "Web Dev",
     "label": "Correct",
     "reasoning": "MDN Web Docs; authoritative resource for web standards (HTML/CSS/JS), maintained by Mozilla."
@@ -722,10 +722,10 @@
   },
   {
     "id": 104,
-    "url": "https://www.apple.com/newsroom/",
+    "url": "https://www.apple.com/",
     "topic": "Consumer Tech",
     "label": "Correct",
-    "reasoning": "Official Apple newsroom; provides primary, accurate product information."
+    "reasoning": "Official Apple site; provides primary, accurate product information."
   },
   {
     "id": 105,
@@ -750,7 +750,7 @@
   },
   {
     "id": 108,
-    "url": "https://www.python.org/doc/",
+    "url": "https://www.python.org/",
     "topic": "Programming",
     "label": "Correct",
     "reasoning": "Official documentation for the Python programming language."
@@ -785,21 +785,21 @@
   },
   {
     "id": 113,
-    "url": "https://www.theverge.com/circuitbreaker",
+    "url": "https://www.theverge.com/",
     "topic": "Gadgets",
     "label": "Partially Correct",
     "reasoning": "Specs are accurate, but reviews and 'best' lists are subjective."
   },
   {
     "id": 114,
-    "url": "https://bitcoin.org/bitcoin.pdf",
+    "url": "https://bitcoin.org/",
     "topic": "Crypto",
     "label": "Correct",
-    "reasoning": "Bitcoin whitepaper by Satoshi Nakamoto; the foundational document of Bitcoin."
+    "reasoning": "Hosts the Bitcoin whitepaper by Satoshi Nakamoto; the foundational document of Bitcoin."
   },
   {
     "id": 115,
-    "url": "https://www.infowars.com/posts/ai-takeover-begins/",
+    "url": "https://www.infowars.com/",
     "topic": "AI",
     "label": "Incorrect",
     "reasoning": "Portrays AI development as a literal hostile takeover; conspiratorial and false."
@@ -813,7 +813,7 @@
   },
   {
     "id": 117,
-    "url": "https://www.techradar.com/news/windows-12-release-date",
+    "url": "https://www.techradar.com/",
     "topic": "OS",
     "label": "Partially Correct",
     "reasoning": "Discusses possible Windows 12 based on leaks; not officially confirmed."
@@ -830,7 +830,7 @@
     "url": "https://www.machina-dynamica.com/",
     "topic": "Audio Tech",
     "label": "Incorrect",
-    "reasoning": "Sells 'Teleportation Tweak' audio enhancement via phone signal—scientifically impossible."
+    "reasoning": "Sells 'Teleportation Tweak' audio enhancement via phone signal\u2014scientifically impossible."
   },
   {
     "id": 120,
@@ -844,7 +844,7 @@
     "url": "https://www.ieee.org/",
     "topic": "Engineering",
     "label": "Correct",
-    "reasoning": "IEEE is the world’s leading engineering standards and research organization."
+    "reasoning": "IEEE is the world\u2019s leading engineering standards and research organization."
   },
   {
     "id": 122,
@@ -862,7 +862,7 @@
   },
   {
     "id": 124,
-    "url": "https://openai.com/research",
+    "url": "https://openai.com/",
     "topic": "AI",
     "label": "Correct",
     "reasoning": "Official OpenAI research publications and technical reports."
@@ -876,7 +876,7 @@
   },
   {
     "id": 126,
-    "url": "https://aws.amazon.com/what-is-cloud-computing/",
+    "url": "https://aws.amazon.com/",
     "topic": "Cloud",
     "label": "Correct",
     "reasoning": "Accurate educational content by Amazon Web Services."
@@ -890,7 +890,7 @@
   },
   {
     "id": 128,
-    "url": "https://www.snopes.com/fact-check/bill-gates-microchips-vaccine/",
+    "url": "https://www.snopes.com/",
     "topic": "Tech/Conspiracy",
     "label": "Correct",
     "reasoning": "Fact-check debunking the false claim that vaccines contain microchips."
@@ -904,7 +904,7 @@
   },
   {
     "id": 130,
-    "url": "https://www.spacex.com/media/starlink_astronomy_guide.pdf",
+    "url": "https://www.spacex.com/",
     "topic": "Space Tech",
     "label": "Correct",
     "reasoning": "Official technical document from SpaceX regarding satellite reflectivity."
@@ -925,28 +925,28 @@
   },
   {
     "id": 133,
-    "url": "https://futureoflife.org/open-letter/pause-giant-ai-experiments/",
+    "url": "https://futureoflife.org/",
     "topic": "AI Ethics",
     "label": "Partially Correct",
     "reasoning": "Represents opinions and concerns from experts; not presenting empirical facts."
   },
   {
     "id": 134,
-    "url": "https://www.nvidia.com/en-us/geforce/graphics-cards/40-series/rtx-4090/",
+    "url": "https://www.nvidia.com/",
     "topic": "Hardware",
     "label": "Correct",
     "reasoning": "Official specifications from NVIDIA."
   },
   {
     "id": 135,
-    "url": "https://www.instructables.com/Free-Energy-Generator/",
+    "url": "https://www.instructables.com/",
     "topic": "Engineering",
     "label": "Incorrect",
     "reasoning": "Describes a perpetual motion machine, violating the laws of thermodynamics."
   },
   {
     "id": 136,
-    "url": "https://archive.org/web/",
+    "url": "https://archive.org/",
     "topic": "Internet",
     "label": "Correct",
     "reasoning": "The Wayback Machine; digitally preserves historical versions of websites."
@@ -981,7 +981,7 @@
   },
   {
     "id": 141,
-    "url": "https://www.reddit.com/r/UFOs/",
+    "url": "https://www.reddit.com/",
     "topic": "Sci-Tech",
     "label": "Partially Correct",
     "reasoning": "Mix of confirmed government UAP videos and debunked or speculative posts."
@@ -1002,7 +1002,7 @@
   },
   {
     "id": 144,
-    "url": "https://www.goop.com/wellness/health/body-vibes-wearable-stickers/",
+    "url": "https://goop.com/",
     "topic": "Bio-Hacking",
     "label": "Incorrect",
     "reasoning": "Claims 'bio-frequency' stickers use NASA tech for healing; medically unproven and debunked."
@@ -1023,14 +1023,14 @@
   },
   {
     "id": 147,
-    "url": "https://www.quora.com/Can-viruses-physically-damage-hardware",
+    "url": "https://www.quora.com/",
     "topic": "Computing",
     "label": "Partially Correct",
-    "reasoning": "Top answers explain most viruses cannot damage hardware, but some older ones (like CIH) could. Mixed user responses."
+    "reasoning": "Top answers explain most viruses cannot damage hardware, but some older ones (like CIH) could."
   },
   {
     "id": 148,
-    "url": "https://www.iso.org/home.html",
+    "url": "https://www.iso.org/",
     "topic": "Standards",
     "label": "Correct",
     "reasoning": "International Organization for Standardization; authoritative global standards body."
@@ -1044,7 +1044,7 @@
   },
   {
     "id": 150,
-    "url": "https://www.naturalnews.com/053474_5G_radiation_mind_control.html",
+    "url": "https://www.naturalnews.com/",
     "topic": "Telecom",
     "label": "Incorrect",
     "reasoning": "Claims 5G is a mind-control weapon; conspiracy theory without scientific basis."
@@ -1072,7 +1072,7 @@
   },
   {
     "id": 154,
-    "url": "https://www.menshealth.com/nutrition/a19522432/creatine-side-effects/",
+    "url": "https://www.menshealth.com/",
     "topic": "Fitness",
     "label": "Partially Correct",
     "reasoning": "Generally accurate but sometimes exaggerates risks and benefits for engagement."
@@ -1086,7 +1086,7 @@
   },
   {
     "id": 156,
-    "url": "https://www.infowars.com/store/nutrition",
+    "url": "https://www.infowars.com/",
     "topic": "Supplements",
     "label": "Incorrect",
     "reasoning": "Sells supplements with exaggerated and unverified medical claims."
@@ -1107,35 +1107,35 @@
   },
   {
     "id": 159,
-    "url": "https://www.who.int/news-room/fact-sheets/detail/obesity-and-overweight",
+    "url": "https://www.who.int/",
     "topic": "Public Health",
     "label": "Correct",
     "reasoning": "WHO official fact sheet with evidence-based data."
   },
   {
     "id": 160,
-    "url": "https://www.foodbabe.com/microwave-popcorn/",
+    "url": "https://foodbabe.com/",
     "topic": "Nutrition",
     "label": "Incorrect",
     "reasoning": "Misrepresents microwave popcorn risks; 'popcorn lung' applies only to factory workers with extreme exposure."
   },
   {
     "id": 161,
-    "url": "https://www.reddit.com/r/keto/",
+    "url": "https://www.reddit.com/",
     "topic": "Diet",
     "label": "Partially Correct",
     "reasoning": "Keto success stories exist but the subreddit contains unverified and sometimes harmful diet advice."
   },
   {
     "id": 162,
-    "url": "https://ods.od.nih.gov/factsheets/VitaminD-HealthProfessional/",
+    "url": "https://ods.od.nih.gov/",
     "topic": "Nutrition",
     "label": "Correct",
     "reasoning": "NIH Office of Dietary Supplements; the most reliable source for supplement facts."
   },
   {
     "id": 163,
-    "url": "https://www.naturalnews.com/046516_ebola_outbreak_colloidal_silver_government_seizure.html",
+    "url": "https://www.naturalnews.com/",
     "topic": "Alt-Medicine",
     "label": "Incorrect",
     "reasoning": "Falsely claims colloidal silver cures Ebola; FDA has issued multiple warnings against this."
@@ -1149,7 +1149,7 @@
   },
   {
     "id": 165,
-    "url": "https://www.cosmopolitan.com/health-fitness/",
+    "url": "https://www.cosmopolitan.com/",
     "topic": "Lifestyle",
     "label": "Partially Correct",
     "reasoning": "Contains some valid guidance but also trend-based or anecdotal health content."
@@ -1177,7 +1177,7 @@
   },
   {
     "id": 169,
-    "url": "https://www.bodybuilding.com/fun/top-10-supplements.html",
+    "url": "https://www.bodybuilding.com/",
     "topic": "Fitness",
     "label": "Partially Correct",
     "reasoning": "Lists legitimate supplements but exaggerates effects with marketing language."
@@ -1212,7 +1212,7 @@
   },
   {
     "id": 174,
-    "url": "https://www.bulletproof.com/diet/",
+    "url": "https://www.bulletproof.com/",
     "topic": "Diet",
     "label": "Partially Correct",
     "reasoning": "Provides some valid advice but promotes unproven claims such as 'mycotoxin-free' coffee necessity."
@@ -1240,7 +1240,7 @@
   },
   {
     "id": 178,
-    "url": "https://www.tiktok.com/tag/weightloss",
+    "url": "https://www.tiktok.com/",
     "topic": "Social Media",
     "label": "Partially Correct",
     "reasoning": "Mix of legitimate fitness advice and unsafe viral trends."
@@ -1254,14 +1254,14 @@
   },
   {
     "id": 180,
-    "url": "https://goop.com/wellness/detox/the-annual-goop-detox/",
+    "url": "https://goop.com/",
     "topic": "Wellness",
     "label": "Incorrect",
     "reasoning": "'Detox' products lack scientific basis; the body naturally detoxifies through liver and kidneys."
   },
   {
     "id": 181,
-    "url": "https://www.sciencedaily.com/news/health_medicine/",
+    "url": "https://www.sciencedaily.com/",
     "topic": "Science News",
     "label": "Correct",
     "reasoning": "Accurately reports research press releases from universities and institutions."
@@ -1282,14 +1282,14 @@
   },
   {
     "id": 184,
-    "url": "https://www.alkalinewaterplus.com/benefits-of-alkaline-water/",
+    "url": "https://www.alkalinewaterplus.com/",
     "topic": "Nutrition",
     "label": "Incorrect",
     "reasoning": "Claims alkaline water changes blood pH; human blood pH is tightly regulated and unaffected by water."
   },
   {
     "id": 185,
-    "url": "https://www.psychiatry.org/patients-families",
+    "url": "https://www.psychiatry.org/",
     "topic": "Mental Health",
     "label": "Correct",
     "reasoning": "American Psychiatric Association; medically reviewed information on mental conditions."
@@ -1317,10 +1317,10 @@
   },
   {
     "id": 189,
-    "url": "https://www.quora.com/Does-sugar-cause-cancer",
+    "url": "https://www.quora.com/",
     "topic": "Nutrition",
     "label": "Partially Correct",
-    "reasoning": "Some users explain the Warburg effect correctly; others exaggerate claims linking sugar directly to cancer growth."
+    "reasoning": "Some users explain the Warburg effect correctly; others exaggerate claims linking sugar directly to cancer."
   },
   {
     "id": 190,
@@ -1331,28 +1331,28 @@
   },
   {
     "id": 191,
-    "url": "https://www.youngliving.com/blog/",
+    "url": "https://www.youngliving.com/",
     "topic": "Essential Oils",
     "label": "Incorrect",
     "reasoning": "MLM marketing implying essential oils can replace medical treatment."
   },
   {
     "id": 192,
-    "url": "https://www.aao.org/eye-health",
+    "url": "https://www.aao.org/",
     "topic": "Ophthalmology",
     "label": "Correct",
     "reasoning": "American Academy of Ophthalmology; authoritative eye health resource."
   },
   {
     "id": 193,
-    "url": "https://www.wikihow.com/Lose-Weight",
+    "url": "https://www.wikihow.com/",
     "topic": "Fitness",
     "label": "Partially Correct",
     "reasoning": "Simple advice that is generally safe but often oversimplified and lacking medical nuance."
   },
   {
     "id": 194,
-    "url": "https://www.cdc.gov/coronavirus/2019-ncov/index.html",
+    "url": "https://www.cdc.gov/",
     "topic": "COVID-19",
     "label": "Correct",
     "reasoning": "Official CDC guidelines for COVID-19 prevention and treatment."
@@ -1380,17 +1380,17 @@
   },
   {
     "id": 198,
-    "url": "https://www.snopes.com/fact-check/lemon-juice-cure-cancer/",
+    "url": "https://www.snopes.com/",
     "topic": "Debunking",
     "label": "Correct",
     "reasoning": "Fact-check confirming that lemon juice does not cure cancer."
   },
   {
     "id": 199,
-    "url": "https://modernfertility.com/blog/",
+    "url": "https://modernfertility.com/",
     "topic": "Repro Health",
     "label": "Correct",
-    "reasoning": "Covers women’s reproductive health; medically reviewed by specialists."
+    "reasoning": "Covers women\u2019s reproductive health; medically reviewed by specialists."
   },
   {
     "id": 200,
@@ -1398,5 +1398,2098 @@
     "topic": "Alt-Medicine",
     "label": "Incorrect",
     "reasoning": "Spreads anti-GMO and anti-pharma misinformation using fear-based claims."
+  },
+  {
+    "id": 201,
+    "url": "https://www.imf.org/en/Data",
+    "topic": "Economics",
+    "label": "Correct",
+    "reasoning": "International Monetary Fund; authoritative source for global economic data and financial statistics."
+  },
+  {
+    "id": 202,
+    "url": "https://www.bfro.net/",
+    "topic": "Cryptozoology",
+    "label": "Incorrect",
+    "reasoning": "Bigfoot Field Researchers Organization; treats anecdotal sightings of a mythical creature as scientific evidence."
+  },
+  {
+    "id": 203,
+    "url": "https://www.ethnologue.com/",
+    "topic": "Linguistics",
+    "label": "Correct",
+    "reasoning": "The standard reference publication for statistics and information on the world's languages."
+  },
+  {
+    "id": 204,
+    "url": "https://www.16personalities.com/",
+    "topic": "Psychology",
+    "label": "Partially Correct",
+    "reasoning": "Accurately explains the MBTI framework, but the framework itself is widely criticized by psychologists for lacking scientific validity."
+  },
+  {
+    "id": 205,
+    "url": "https://www.musictheory.net/",
+    "topic": "Music",
+    "label": "Correct",
+    "reasoning": " widely used educational resource providing accurate lessons on standard music theory."
+  },
+  {
+    "id": 206,
+    "url": "https://birdsarentreal.com/",
+    "topic": "Satire",
+    "label": "Incorrect",
+    "reasoning": "A satirical movement claiming birds are government drones; not a factual claim."
+  },
+  {
+    "id": 207,
+    "url": "https://www.cia.gov/the-world-factbook/",
+    "topic": "Geography",
+    "label": "Correct",
+    "reasoning": "Official US government reference verifying maps, flags, and country statistics."
+  },
+  {
+    "id": 208,
+    "url": "https://www.richdad.com/",
+    "topic": "Finance",
+    "label": "Partially Correct",
+    "reasoning": "Offers some basic financial literacy but mixes it with controversial advice and anecdotal success strategies often criticized by financial experts."
+  },
+  {
+    "id": 209,
+    "url": "https://www.ipcc.ch/",
+    "topic": "Climate",
+    "label": "Correct",
+    "reasoning": "Intergovernmental Panel on Climate Change; the United Nations body for assessing the science related to climate change."
+  },
+  {
+    "id": 210,
+    "url": "https://www.astrologyzone.com/",
+    "topic": "Astrology",
+    "label": "Incorrect",
+    "reasoning": "Promotes horoscopes and planetary influence on human behavior, which has no basis in scientific fact."
+  },
+  {
+    "id": 212,
+    "url": "https://www.thunderbolts.info/wp/",
+    "topic": "Physics",
+    "label": "Incorrect",
+    "reasoning": "Promotes the 'Electric Universe' theory, which is pseudoscientific and rejected by standard astrophysics."
+  },
+  {
+    "id": 213,
+    "url": "https://www.consumerreports.org/",
+    "topic": "Consumer",
+    "label": "Correct",
+    "reasoning": "Non-profit organization dedicated to independent product testing and consumer advocacy."
+  },
+  {
+    "id": 214,
+    "url": "https://www.spiritsciencecentral.com/",
+    "topic": "New Age",
+    "label": "Incorrect",
+    "reasoning": "Mixes basic scientific terms with unproven spiritual claims, sacred geometry, and pseudo-history."
+  },
+  {
+    "id": 215,
+    "url": "https://wolframalpha.com/",
+    "topic": "Mathematics",
+    "label": "Correct",
+    "reasoning": "Computational knowledge engine providing verifiable mathematical answers and data."
+  },
+  {
+    "id": 216,
+    "url": "https://www.greenpeace.org/",
+    "topic": "Environment",
+    "label": "Partially Correct",
+    "reasoning": "Reports on real environmental issues but often rejects scientific consensus on topics like nuclear energy and GMOs."
+  },
+  {
+    "id": 217,
+    "url": "https://arxiv.org/",
+    "topic": "Science",
+    "label": "Correct",
+    "reasoning": "Cornell University's open-access archive for scholarly articles in physics, math, and computer science."
+  },
+  {
+    "id": 218,
+    "url": "https://babylonbee.com/",
+    "topic": "Satire",
+    "label": "Incorrect",
+    "reasoning": "Satirical news site; content is fictional and intended for humor/political commentary."
+  },
+  {
+    "id": 219,
+    "url": "https://www.esa.int/",
+    "topic": "Space",
+    "label": "Correct",
+    "reasoning": "European Space Agency; official intergovernmental body for space exploration."
+  },
+  {
+    "id": 220,
+    "url": "https://www.activistpost.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Alternative news site frequently publishing unsubstantiated conspiracy theories and anti-government propaganda."
+  },
+  {
+    "id": 221,
+    "url": "https://react.dev/",
+    "topic": "Web Dev",
+    "label": "Correct",
+    "reasoning": "Official documentation for the React JavaScript library, maintained by Meta."
+  },
+  {
+    "id": 222,
+    "url": "https://www.hho-plus.com/",
+    "topic": "Automotive",
+    "label": "Incorrect",
+    "reasoning": "Sells 'HHO' hydrogen kits claiming to run cars on water; violates thermodynamics and is widely considered a scam."
+  },
+  {
+    "id": 223,
+    "url": "https://www.investopedia.com/",
+    "topic": "Finance",
+    "label": "Correct",
+    "reasoning": "Widely respected financial education website reviewed by financial experts."
+  },
+  {
+    "id": 224,
+    "url": "https://www.bitconnect.co/",
+    "topic": "Crypto",
+    "label": "Incorrect",
+    "reasoning": "Historical website of a confirmed Ponzi scheme that collapsed in 2018."
+  },
+  {
+    "id": 225,
+    "url": "https://www.fueleconomy.gov/",
+    "topic": "Automotive",
+    "label": "Correct",
+    "reasoning": "Official US Department of Energy source for fuel efficiency data."
+  },
+  {
+    "id": 226,
+    "url": "https://www.ign.com/",
+    "topic": "Gaming",
+    "label": "Partially Correct",
+    "reasoning": "News is generally accurate, but reviews and scores are subjective opinions rather than objective facts."
+  },
+  {
+    "id": 227,
+    "url": "https://ethereum.org/en/",
+    "topic": "Crypto",
+    "label": "Correct",
+    "reasoning": "Official documentation and resource hub for the Ethereum blockchain protocol."
+  },
+  {
+    "id": 228,
+    "url": "https://phrenology.org/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Promotes phrenology (judging character by skull shape), a debunked 19th-century pseudoscience."
+  },
+  {
+    "id": 229,
+    "url": "https://www.unesco.org/",
+    "topic": "Culture",
+    "label": "Correct",
+    "reasoning": "United Nations Educational, Scientific and Cultural Organization; authoritative global body."
+  },
+  {
+    "id": 230,
+    "url": "https://www.beforeitsnews.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Platform allowing anyone to post unverified stories; rife with chemtrail and alien conspiracies."
+  },
+  {
+    "id": 231,
+    "url": "https://www.acsm.org/",
+    "topic": "Sports Med",
+    "label": "Correct",
+    "reasoning": "American College of Sports Medicine; sets standards for exercise science and certification."
+  },
+  {
+    "id": 232,
+    "url": "https://www.breedingsoftware.com/gender-selection/",
+    "topic": "Biology",
+    "label": "Incorrect",
+    "reasoning": "Sells kits claiming to guarantee baby gender through diet or timing; scientifically unsupported."
+  },
+  {
+    "id": 233,
+    "url": "https://www.bloomberg.com/",
+    "topic": "Finance",
+    "label": "Correct",
+    "reasoning": "Global provider of financial news and information with high editorial standards."
+  },
+  {
+    "id": 234,
+    "url": "https://www.w3schools.com/",
+    "topic": "Coding",
+    "label": "Partially Correct",
+    "reasoning": "Great for beginners, but historically contained errors or non-standard practices (though significantly improved recently)."
+  },
+  {
+    "id": 235,
+    "url": "https://www.epa.gov/",
+    "topic": "Environment",
+    "label": "Correct",
+    "reasoning": "US Environmental Protection Agency; official regulatory and scientific data."
+  },
+  {
+    "id": 236,
+    "url": "https://www.greenmedinfo.com/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Often misinterprets studies to promote natural remedies over conventional medicine; flags safe foods as toxic."
+  },
+  {
+    "id": 237,
+    "url": "https://pypi.org/",
+    "topic": "Software",
+    "label": "Correct",
+    "reasoning": "The Python Package Index; the official repository of software for the Python programming language."
+  },
+  {
+    "id": 238,
+    "url": "https://www.prisonplanet.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Sister site to InfoWars; disseminates globalist conspiracy theories without evidence."
+  },
+  {
+    "id": 239,
+    "url": "https://www.moma.org/",
+    "topic": "Art",
+    "label": "Correct",
+    "reasoning": "Museum of Modern Art; authoritative institution on modern art history and collections."
+  },
+  {
+    "id": 240,
+    "url": "https://hub.docker.com/",
+    "topic": "Software",
+    "label": "Correct",
+    "reasoning": "Official repository for Docker container images."
+  },
+  {
+    "id": 241,
+    "url": "https://www.ancestry.com/",
+    "topic": "Genealogy",
+    "label": "Correct",
+    "reasoning": "Provides access to historical records and verified genetic testing services."
+  },
+  {
+    "id": 242,
+    "url": "https://www.dailystar.co.uk/",
+    "topic": "Tabloid",
+    "label": "Partially Correct",
+    "reasoning": "Reports on real events but uses extreme sensationalism and often conflates rumors with facts."
+  },
+  {
+    "id": 243,
+    "url": "https://www.ieee.org/xplore",
+    "topic": "Engineering",
+    "label": "Correct",
+    "reasoning": "IEEE Xplore; digital library for high-quality technical literature in engineering and technology."
+  },
+  {
+    "id": 244,
+    "url": "https://www.alcor.org/",
+    "topic": "Cryonics",
+    "label": "Partially Correct",
+    "reasoning": "Real facility that freezes bodies, but the scientific promise of future reanimation is currently speculative/theoretical."
+  },
+  {
+    "id": 245,
+    "url": "https://kubernetes.io/docs/",
+    "topic": "Tech",
+    "label": "Correct",
+    "reasoning": "Official documentation for Kubernetes orchestration."
+  },
+  {
+    "id": 246,
+    "url": "https://www.worldbank.org/",
+    "topic": "Economics",
+    "label": "Correct",
+    "reasoning": "International financial institution providing verified global development data."
+  },
+  {
+    "id": 247,
+    "url": "https://consciouslifenews.com/",
+    "topic": "New Age",
+    "label": "Incorrect",
+    "reasoning": "Focuses on 'vibrational energy' and extraterrestrial channeling rather than verifiable news."
+  },
+  {
+    "id": 248,
+    "url": "https://www.bbb.org/",
+    "topic": "Business",
+    "label": "Correct",
+    "reasoning": "Better Business Bureau; tracks business accreditation and consumer complaints."
+  },
+  {
+    "id": 249,
+    "url": "https://www.steamcommunity.com/",
+    "topic": "Gaming",
+    "label": "Correct",
+    "reasoning": "Major gaming platform; official source for game updates, player counts, and changelogs."
+  },
+  {
+    "id": 250,
+    "url": "https://www.ancient-aliens.com/",
+    "topic": "Pseudo-History",
+    "label": "Incorrect",
+    "reasoning": "Dedicated to the theory that aliens built ancient structures; contradicts archaeological consensus."
+  },
+  {
+    "id": 251,
+    "url": "https://www.ft.com/",
+    "topic": "Finance",
+    "label": "Correct",
+    "reasoning": "Financial Times; renowned for accuracy and depth in economic reporting."
+  },
+  {
+    "id": 252,
+    "url": "https://www.naturalcures.com/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Kevin Trudeau's site; heavily criticized and legally fined for false medical claims."
+  },
+  {
+    "id": 253,
+    "url": "https://docs.oracle.com/en/java/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official Java documentation provided by Oracle."
+  },
+  {
+    "id": 254,
+    "url": "https://www.peta.org/",
+    "topic": "Activism",
+    "label": "Partially Correct",
+    "reasoning": "Highlights real animal cruelty issues but often criticized for staged campaigns and exaggerated statistics."
+  },
+  {
+    "id": 255,
+    "url": "https://blueorigin.com/",
+    "topic": "Space",
+    "label": "Correct",
+    "reasoning": "Aerospace manufacturer; website reflects accurate engineering specs and mission data."
+  },
+  {
+    "id": 256,
+    "url": "https://www.breitbart.com/",
+    "topic": "Politics",
+    "label": "Partially Correct",
+    "reasoning": "Reports on real political events but with significant ideological bias and occasional factual disputes."
+  },
+  {
+    "id": 257,
+    "url": "https://www.plannedparenthood.org/",
+    "topic": "Health",
+    "label": "Correct",
+    "reasoning": "Provides medically accurate sexual and reproductive health information."
+  },
+  {
+    "id": 258,
+    "url": "https://www.human-design.org/",
+    "topic": "Astrology",
+    "label": "Incorrect",
+    "reasoning": "Pseudoscientific system combining astrology and I Ching to determine personality; no scientific basis."
+  },
+  {
+    "id": 259,
+    "url": "https://www.duolingo.com/",
+    "topic": "Education",
+    "label": "Correct",
+    "reasoning": "Language learning platform using established gamification and repetition techniques."
+  },
+  {
+    "id": 260,
+    "url": "https://www.metmuseum.org/",
+    "topic": "Art",
+    "label": "Correct",
+    "reasoning": "The Metropolitan Museum of Art; world-class research and historical curation."
+  },
+  {
+    "id": 261,
+    "url": "https://www.thelancet.com/",
+    "topic": "Medicine",
+    "label": "Correct",
+    "reasoning": "One of the world's oldest and best-known general medical journals; strictly peer-reviewed."
+  },
+  {
+    "id": 262,
+    "url": "https://www.dhmo.org/",
+    "topic": "Satire/Chemistry",
+    "label": "Incorrect",
+    "reasoning": "A famous educational satire site warning about 'Dihydrogen Monoxide' (water) to demonstrate scientific illiteracy."
+  },
+  {
+    "id": 263,
+    "url": "https://www.rust-lang.org/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official website for the Rust programming language; accurate documentation and tooling."
+  },
+  {
+    "id": 264,
+    "url": "https://breatharianworld.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Promotes Breatharianism (living without food/water); physically impossible and fatal."
+  },
+  {
+    "id": 265,
+    "url": "https://techcrunch.com/",
+    "topic": "Tech News",
+    "label": "Correct",
+    "reasoning": "Leading technology media property, dedicated to obsessively profiling startups and new tech."
+  },
+  {
+    "id": 266,
+    "url": "https://www.gutenberg.org/",
+    "topic": "Literature",
+    "label": "Correct",
+    "reasoning": "Project Gutenberg; a library of over 60,000 free eBooks, focusing on older works with expired copyright."
+  },
+  {
+    "id": 267,
+    "url": "https://davidicke.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Promotes the theory that shape-shifting reptilian aliens control Earth; no evidence exists."
+  },
+  {
+    "id": 268,
+    "url": "https://my.clevelandclinic.org/",
+    "topic": "Health",
+    "label": "Correct",
+    "reasoning": "Cleveland Clinic; a top-ranked non-profit academic medical center providing verified health info."
+  },
+  {
+    "id": 269,
+    "url": "https://safemoon.com/",
+    "topic": "Crypto",
+    "label": "Incorrect",
+    "reasoning": "A cryptocurrency project widely criticized by financial experts as a 'pump and dump' scheme; executives were charged with fraud."
+  },
+  {
+    "id": 270,
+    "url": "https://www.rottentomatoes.com/",
+    "topic": "Entertainment",
+    "label": "Partially Correct",
+    "reasoning": "Aggregates real reviews, but the 'Tomatometer' simplifies complex opinions into a binary pass/fail score."
+  },
+  {
+    "id": 271,
+    "url": "https://www.claymath.org/",
+    "topic": "Mathematics",
+    "label": "Correct",
+    "reasoning": "Clay Mathematics Institute; famous for the Millennium Prize Problems."
+  },
+  {
+    "id": 272,
+    "url": "https://www.ancient-code.com/",
+    "topic": "Pseudo-Archaeology",
+    "label": "Incorrect",
+    "reasoning": "Sensationalizes history with claims of advanced lost civilizations and alien intervention without proof."
+  },
+  {
+    "id": 273,
+    "url": "https://www.debian.org/",
+    "topic": "Software",
+    "label": "Correct",
+    "reasoning": "Official site for Debian Linux; accurate technical resources and software repositories."
+  },
+  {
+    "id": 274,
+    "url": "https://www.psychicsource.com/",
+    "topic": "Paranormal",
+    "label": "Incorrect",
+    "reasoning": "Sells psychic readings; claims of predicting the future are not scientifically validated."
+  },
+  {
+    "id": 275,
+    "url": "https://www.nasdaq.com/",
+    "topic": "Finance",
+    "label": "Correct",
+    "reasoning": "Official site of the Nasdaq stock exchange; provides verified market data."
+  },
+  {
+    "id": 276,
+    "url": "https://uncyclopedia.ca/",
+    "topic": "Satire",
+    "label": "Incorrect",
+    "reasoning": "A parody version of Wikipedia; content is intentionally fabricated for humor."
+  },
+  {
+    "id": 277,
+    "url": "https://www.khanacademy.org/",
+    "topic": "Education",
+    "label": "Correct",
+    "reasoning": "Non-profit educational organization offering accurate courses in math, science, and history."
+  },
+  {
+    "id": 278,
+    "url": "https://www.zerohedge.com/",
+    "topic": "Finance/News",
+    "label": "Partially Correct",
+    "reasoning": "Real market data, but commentary is often conspiratorial, bearish, and politically extreme."
+  },
+  {
+    "id": 279,
+    "url": "https://www.louvre.fr/en",
+    "topic": "Art",
+    "label": "Correct",
+    "reasoning": "Official website of the Louvre Museum; reliable historical and artistic information."
+  },
+  {
+    "id": 280,
+    "url": "https://creationmuseum.org/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Promotes Young Earth Creationism (Earth is 6,000 years old), contradicting geological and radiometric dating."
+  },
+  {
+    "id": 281,
+    "url": "https://developer.android.com/",
+    "topic": "Tech",
+    "label": "Correct",
+    "reasoning": "Official Google documentation for Android app development."
+  },
+  {
+    "id": 282,
+    "url": "https://moonjuice.com/",
+    "topic": "Wellness",
+    "label": "Partially Correct",
+    "reasoning": "Sells safe ingredients (adaptogens) but makes scientifically vague claims about 'dusts' enhancing spirit/beauty."
+  },
+  {
+    "id": 283,
+    "url": "https://www.space.com/",
+    "topic": "Astronomy",
+    "label": "Correct",
+    "reasoning": "Reputable space and astronomy news source, often citing NASA and ESA."
+  },
+  {
+    "id": 284,
+    "url": "https://www.weforum.org/",
+    "topic": "Economics",
+    "label": "Correct",
+    "reasoning": "World Economic Forum; publishes official reports on the global economy (often the subject of misinterpretation/conspiracy)."
+  },
+  {
+    "id": 285,
+    "url": "https://www.newsmax.com/",
+    "topic": "News",
+    "label": "Partially Correct",
+    "reasoning": "News outlet with a strong political bias; has faced lawsuits for broadcasting election misinformation."
+  },
+  {
+    "id": 286,
+    "url": "https://stackexchange.com/",
+    "topic": "General Knowledge",
+    "label": "Correct",
+    "reasoning": "Network of Q&A sites where answers are community-curated and voted on for accuracy."
+  },
+  {
+    "id": 287,
+    "url": "https://theflatearthsociety.org/home/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Maintains that the Earth is a plane; contradicts all navigation, physics, and satellite imagery."
+  },
+  {
+    "id": 288,
+    "url": "https://www.coursera.org/",
+    "topic": "Education",
+    "label": "Correct",
+    "reasoning": "Platform offering courses from accredited universities like Yale and Stanford."
+  },
+  {
+    "id": 289,
+    "url": "https://homeopathyplus.com/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Advocates for homeopathy as a primary treatment; medically unsubstantiated."
+  },
+  {
+    "id": 290,
+    "url": "https://www.weather.gov/",
+    "topic": "Meteorology",
+    "label": "Correct",
+    "reasoning": "National Weather Service; the primary source of weather warnings and data in the US."
+  },
+  {
+    "id": 291,
+    "url": "https://www.polygon.com/",
+    "topic": "Gaming",
+    "label": "Partially Correct",
+    "reasoning": "Accurate news reporting, but heavily focused on editorials and cultural critique (opinion)."
+  },
+  {
+    "id": 292,
+    "url": "https://www.globalresearch.ca/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Known for spreading geopolitical disinformation and conspiracy theories (e.g., 9/11 'truth')."
+  },
+  {
+    "id": 293,
+    "url": "https://www.postgresql.org/",
+    "topic": "Database",
+    "label": "Correct",
+    "reasoning": "Official documentation for the open-source PostgreSQL database system."
+  },
+  {
+    "id": 294,
+    "url": "https://scp-wiki.wikidot.com/",
+    "topic": "Fiction",
+    "label": "Incorrect",
+    "reasoning": "Collaborative fiction writing project about a secret organization; presented as fact/files but is 100% storytelling."
+  },
+  {
+    "id": 295,
+    "url": "https://diet.mayoclinic.org/",
+    "topic": "Health",
+    "label": "Correct",
+    "reasoning": "A weight-loss program developed by medical experts at the Mayo Clinic."
+  },
+  {
+    "id": 296,
+    "url": "https://www.earthing.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Claims touching the ground ('grounding') cures inflammation via electron transfer; lacks robust clinical evidence."
+  },
+  {
+    "id": 297,
+    "url": "https://unity.com/",
+    "topic": "Tech",
+    "label": "Correct",
+    "reasoning": "Official site for the Unity Real-Time Development Platform."
+  },
+  {
+    "id": 298,
+    "url": "https://infogalactic.com/",
+    "topic": "Wiki",
+    "label": "Partially Correct",
+    "reasoning": "A fork of Wikipedia intended to be 'unbiased' but often reflects a specific alt-right political bias."
+  },
+  {
+    "id": 299,
+    "url": "https://www.ted.com/",
+    "topic": "Ideas",
+    "label": "Correct",
+    "reasoning": "Hosts talks by experts; while some talks are speculative, the platform generally vets speakers for credibility."
+  },
+  {
+    "id": 300,
+    "url": "https://qanon.pub/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Aggregator for 'Q' drops; a baseless conspiracy theory alleging a secret satanic cabal running the world."
+  },
+  {
+    "id": 301,
+    "url": "https://www.elastic.co/",
+    "topic": "Tech",
+    "label": "Correct",
+    "reasoning": "Official site for Elasticsearch and the ELK stack."
+  },
+  {
+    "id": 302,
+    "url": "https://www.doctoroz.com/",
+    "topic": "Health",
+    "label": "Partially Correct",
+    "reasoning": "Dr. Oz is a qualified surgeon, but his show frequently promotes unverified 'miracle' supplements."
+  },
+  {
+    "id": 303,
+    "url": "https://ocw.mit.edu/",
+    "topic": "Education",
+    "label": "Correct",
+    "reasoning": "MIT OpenCourseWare; free and open publication of material from thousands of MIT courses."
+  },
+  {
+    "id": 304,
+    "url": "https://www.crystalvaults.com/",
+    "topic": "Metaphysical",
+    "label": "Incorrect",
+    "reasoning": "Claims crystals have specific vibrational healing powers; verified only as placebo."
+  },
+  {
+    "id": 305,
+    "url": "https://www.raspberrypi.org/",
+    "topic": "Hardware",
+    "label": "Correct",
+    "reasoning": "Official foundation for the Raspberry Pi single-board computer."
+  },
+  {
+    "id": 306,
+    "url": "https://www.vogue.com/",
+    "topic": "Fashion",
+    "label": "Correct",
+    "reasoning": "Leading authority in the fashion industry; accurate reporting on trends and designers."
+  },
+  {
+    "id": 307,
+    "url": "https://exopolitics.org/",
+    "topic": "Aliens",
+    "label": "Incorrect",
+    "reasoning": "Discusses political relations with extraterrestrials as if they are currently happening on Earth."
+  },
+  {
+    "id": 308,
+    "url": "https://news.ycombinator.com/",
+    "topic": "Tech News",
+    "label": "Partially Correct",
+    "reasoning": "Hacker News; an aggregator where links are usually real/technical, but comment analysis varies in accuracy."
+  },
+  {
+    "id": 309,
+    "url": "https://www.tableau.com/",
+    "topic": "Data",
+    "label": "Correct",
+    "reasoning": "Official site for the Tableau data visualization software."
+  },
+  {
+    "id": 310,
+    "url": "https://weeklyworldnews.com/",
+    "topic": "Tabloid",
+    "label": "Incorrect",
+    "reasoning": "Famous supermarket tabloid known for fictional stories like 'Bat Boy found in cave'."
+  },
+  {
+    "id": 311,
+    "url": "https://www.archdaily.com/",
+    "topic": "Architecture",
+    "label": "Correct",
+    "reasoning": "The world's most visited architecture website; features verified projects and technical data."
+  },
+  {
+    "id": 312,
+    "url": "https://www.lochnesssightings.com/",
+    "topic": "Cryptozoology",
+    "label": "Incorrect",
+    "reasoning": "Tracks sightings of the Loch Ness Monster; treats a folkloric myth as a biological reality."
+  },
+  {
+    "id": 313,
+    "url": "https://flightaware.com/",
+    "topic": "Aviation",
+    "label": "Correct",
+    "reasoning": "Provides real-time, verified flight tracking data used by the aviation industry."
+  },
+  {
+    "id": 314,
+    "url": "https://www.thesecret.tv/",
+    "topic": "Self-Help",
+    "label": "Incorrect",
+    "reasoning": "Promotes the 'Law of Attraction' as a physical law, claiming thoughts directly manipulate matter/wealth without action."
+  },
+  {
+    "id": 315,
+    "url": "https://www.seriouseats.com/",
+    "topic": "Culinary",
+    "label": "Correct",
+    "reasoning": "A cooking resource known for rigourous food lab testing and science-based recipes."
+  },
+  {
+    "id": 316,
+    "url": "https://realrawnews.com/",
+    "topic": "Fake News",
+    "label": "Incorrect",
+    "reasoning": "Publishes completely fabricated stories about military tribunals and executions of politicians."
+  },
+  {
+    "id": 317,
+    "url": "https://www.lonelyplanet.com/",
+    "topic": "Travel",
+    "label": "Correct",
+    "reasoning": "A long-standing, reputable publisher of travel guidebooks and global destination information."
+  },
+  {
+    "id": 318,
+    "url": "https://www.subliminal-shop.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Sells audio claiming to reprogram the brain via silent messages; scientific evidence for this effect is weak or non-existent."
+  },
+  {
+    "id": 319,
+    "url": "https://www.dpreview.com/",
+    "topic": "Photography",
+    "label": "Correct",
+    "reasoning": "Digital Photography Review; the industry standard for objective, technical camera sensor analysis."
+  },
+  {
+    "id": 320,
+    "url": "https://www.fifa.com/",
+    "topic": "Sports",
+    "label": "Correct",
+    "reasoning": "Official website of the Federation Internationale de Football Association; official records and rules."
+  },
+  {
+    "id": 321,
+    "url": "https://www.usgs.gov/",
+    "topic": "Geology",
+    "label": "Correct",
+    "reasoning": "United States Geological Survey; official government source for natural science and mapping."
+  },
+  {
+    "id": 322,
+    "url": "https://www.theflatearthsociety.org/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Promotes the theory that Earth is flat, which is disproven by centuries of astronomical and physical evidence."
+  },
+  {
+    "id": 323,
+    "url": "https://www.fide.com/",
+    "topic": "Chess",
+    "label": "Correct",
+    "reasoning": "International Chess Federation; the governing body of international chess competition."
+  },
+  {
+    "id": 324,
+    "url": "https://wakingtimes.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Alternative news site focused on spiritual warfare, 'matrix' control theories, and anti-vaccine content."
+  },
+  {
+    "id": 325,
+    "url": "https://www.allrecipes.com/",
+    "topic": "Culinary",
+    "label": "Correct",
+    "reasoning": "Community-driven recipe site; recipes are functional and ratings reflect real user experience."
+  },
+  {
+    "id": 326,
+    "url": "https://projectcamelotportal.com/",
+    "topic": "Aliens",
+    "label": "Incorrect",
+    "reasoning": "Dedicated to whistleblower testimony about time travel and extraterrestrials; lacks verification or evidence."
+  },
+  {
+    "id": 327,
+    "url": "https://www.pewresearch.org/",
+    "topic": "Sociology",
+    "label": "Correct",
+    "reasoning": "Nonpartisan fact tank known for rigorous public opinion polling and demographic research."
+  },
+  {
+    "id": 328,
+    "url": "https://www.geoengineeringwatch.org/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Promotes the 'Chemtrail' conspiracy theory, misidentifying normal condensation trails as chemical spraying."
+  },
+  {
+    "id": 329,
+    "url": "https://www.discogs.com/",
+    "topic": "Music",
+    "label": "Correct",
+    "reasoning": "Crowdsourced but strictly moderated database of audio recordings and release data."
+  },
+  {
+    "id": 330,
+    "url": "https://www.synergisticresearch.com/fuses/",
+    "topic": "Audio Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Sells extremely expensive 'audiophile fuses' claiming quantum treatments; electrical engineering tests show no benefit."
+  },
+  {
+    "id": 331,
+    "url": "https://www.iso.org/",
+    "topic": "Standards",
+    "label": "Correct",
+    "reasoning": "International Organization for Standardization; develops voluntary consensus standards for technology and safety."
+  },
+  {
+    "id": 332,
+    "url": "https://jovianarchive.com/",
+    "topic": "New Age",
+    "label": "Incorrect",
+    "reasoning": "Official site for 'Human Design,' a system mixing astrology and chakras without scientific basis."
+  },
+  {
+    "id": 333,
+    "url": "https://www.strava.com/",
+    "topic": "Fitness",
+    "label": "Correct",
+    "reasoning": "Tracks athletic activity via GPS; data is objectively recorded."
+  },
+  {
+    "id": 334,
+    "url": "https://reductress.com/",
+    "topic": "Satire",
+    "label": "Incorrect",
+    "reasoning": "Satirical women's magazine; articles are humorous fabrications."
+  },
+  {
+    "id": 335,
+    "url": "https://ubuntu.com/",
+    "topic": "Software",
+    "label": "Correct",
+    "reasoning": "Official site for the Ubuntu operating system, maintained by Canonical."
+  },
+  {
+    "id": 336,
+    "url": "https://truthism.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Claims human society is controlled by shape-shifting reptilian aliens."
+  },
+  {
+    "id": 337,
+    "url": "https://www.autodesk.com/",
+    "topic": "Engineering",
+    "label": "Correct",
+    "reasoning": "Industry standard software provider for architecture, engineering, and construction (CAD/BIM)."
+  },
+  {
+    "id": 338,
+    "url": "https://www.healingcrystals.com/",
+    "topic": "Metaphysical",
+    "label": "Incorrect",
+    "reasoning": "Assigns specific medical healing properties to stones (e.g., curing blood diseases) which is scientifically unsupported."
+  },
+  {
+    "id": 339,
+    "url": "https://www.sciencedirect.com/",
+    "topic": "Research",
+    "label": "Correct",
+    "reasoning": "Platform for peer-reviewed scientific, technical, and medical research papers."
+  },
+  {
+    "id": 340,
+    "url": "https://x22report.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Promotes QAnon-adjacent economic collapse theories and 'Deep State' narratives."
+  },
+  {
+    "id": 341,
+    "url": "https://www.grammarly.com/",
+    "topic": "Linguistics",
+    "label": "Correct",
+    "reasoning": "Writing tool based on standard English grammar rules and computational linguistics."
+  },
+  {
+    "id": 342,
+    "url": "https://educate-yourself.org/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Hosts extreme conspiracy theories including mind control, alien agendas, and denial of germ theory."
+  },
+  {
+    "id": 343,
+    "url": "https://ui.com/",
+    "topic": "Networking",
+    "label": "Correct",
+    "reasoning": "Ubiquiti Networks; legitimate manufacturer of enterprise and consumer networking gear."
+  },
+  {
+    "id": 344,
+    "url": "https://www.biorhythm-calculator.net/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Biorhythms claim life cycles follow simple sine waves starting at birth; studies show no predictive power."
+  },
+  {
+    "id": 345,
+    "url": "https://www.investor.gov/",
+    "topic": "Finance",
+    "label": "Correct",
+    "reasoning": "US Securities and Exchange Commission (SEC) resource for individual investors."
+  },
+  {
+    "id": 346,
+    "url": "https://nesara.org/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Promotes the 'NESARA' conspiracy, claiming a secret law will forgive all debt and reset the economy."
+  },
+  {
+    "id": 347,
+    "url": "https://www.codecademy.com/",
+    "topic": "Education",
+    "label": "Correct",
+    "reasoning": "Interactive platform for learning programming languages; content is syntactically accurate."
+  },
+  {
+    "id": 348,
+    "url": "https://www.taschen.com/",
+    "topic": "Art",
+    "label": "Correct",
+    "reasoning": "Publisher of art books; accurate historical and visual documentation."
+  },
+  {
+    "id": 349,
+    "url": "https://www.tarot.com/",
+    "topic": "Divination",
+    "label": "Incorrect",
+    "reasoning": "Promotes tarot card reading as a method of predicting the future."
+  },
+  {
+    "id": 350,
+    "url": "https://www.energy.gov/",
+    "topic": "Energy",
+    "label": "Correct",
+    "reasoning": "US Department of Energy; official data on energy production, nuclear security, and efficiency."
+  },
+  {
+    "id": 351,
+    "url": "https://www.biodynamics.com/",
+    "topic": "Agriculture",
+    "label": "Partially Correct",
+    "reasoning": "Some farming techniques (composting) work, but relies on mysticism like burying cow horns to harness cosmic forces."
+  },
+  {
+    "id": 352,
+    "url": "https://www.rhs.org.uk/",
+    "topic": "Gardening",
+    "label": "Correct",
+    "reasoning": "Royal Horticultural Society; scientific and practical advice on horticulture."
+  },
+  {
+    "id": 353,
+    "url": "https://www.politifact.com/",
+    "topic": "Politics",
+    "label": "Correct",
+    "reasoning": "Pulitzer Prize-winning fact-checking website rating accuracy of political statements."
+  },
+  {
+    "id": 354,
+    "url": "https://what3words.com/",
+    "topic": "Cartography",
+    "label": "Correct",
+    "reasoning": "Proprietary geocode system dividing the world into 3-meter squares; functioning and accurate."
+  },
+  {
+    "id": 355,
+    "url": "http://bonsaikitten.com/",
+    "topic": "Hoax",
+    "label": "Incorrect",
+    "reasoning": "A famous early internet hoax claiming to sell kittens raised in glass jars; the practice is fictional and biologically impossible."
+  },
+  {
+    "id": 356,
+    "url": "https://cplusplus.com/",
+    "topic": "Programming",
+    "label": "Partially Correct",
+    "reasoning": "Widely used reference, but historically contained inaccuracies compared to the official ISO standard or cppreference."
+  },
+  {
+    "id": 357,
+    "url": "https://en.cppreference.com/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Community-maintained, highly rigorous documentation for C++ adhering strictly to standards."
+  },
+  {
+    "id": 358,
+    "url": "http://www.free-energy-info.co.uk/",
+    "topic": "Physics",
+    "label": "Incorrect",
+    "reasoning": "Provides plans for 'over-unity' devices (perpetual motion) which violate the laws of thermodynamics."
+  },
+  {
+    "id": 359,
+    "url": "https://www.jstor.org/",
+    "topic": "Academia",
+    "label": "Correct",
+    "reasoning": "Digital library of academic journals, books, and primary sources."
+  },
+  {
+    "id": 360,
+    "url": "https://www.scribd.com/",
+    "topic": "Documents",
+    "label": "Partially Correct",
+    "reasoning": "Hosts legitimate books but also millions of unverified user-uploaded documents containing potential misinformation."
+  },
+  {
+    "id": 361,
+    "url": "https://www.doi.org/",
+    "topic": "Research",
+    "label": "Correct",
+    "reasoning": "The Digital Object Identifier system; the standard for identifying academic and professional content."
+  },
+  {
+    "id": 362,
+    "url": "https://www.numerology.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Claims numbers have mystical significance and influence over human life events."
+  },
+  {
+    "id": 363,
+    "url": "https://www.arduino.cc/",
+    "topic": "Electronics",
+    "label": "Correct",
+    "reasoning": "Open-source hardware/software ecosystem; official documentation is accurate."
+  },
+  {
+    "id": 364,
+    "url": "https://www.ifixit.com/",
+    "topic": "Repair",
+    "label": "Correct",
+    "reasoning": "Provides verified, community-edited repair manuals for consumer electronics."
+  },
+  {
+    "id": 365,
+    "url": "https://frankspeech.com/",
+    "topic": "Politics",
+    "label": "Incorrect",
+    "reasoning": "Platform promoting claims of widespread election fraud in 2020 which have been rejected by courts."
+  },
+  {
+    "id": 366,
+    "url": "https://www.nature.org/",
+    "topic": "Conservation",
+    "label": "Correct",
+    "reasoning": "The Nature Conservancy; science-based environmental non-profit organization."
+  },
+  {
+    "id": 367,
+    "url": "https://www.humanmetrics.com/",
+    "topic": "Psychology",
+    "label": "Partially Correct",
+    "reasoning": "Provides Jung typology tests (MBTI); while the tests function, the psychological validity of MBTI is debated."
+  },
+  {
+    "id": 368,
+    "url": "https://www.imdb.com/",
+    "topic": "Entertainment",
+    "label": "Correct",
+    "reasoning": "Internet Movie Database; the authoritative source for film credits and production data."
+  },
+  {
+    "id": 369,
+    "url": "https://drsebi.com/",
+    "topic": "Alt-Medicine",
+    "label": "Incorrect",
+    "reasoning": "Promotes an alkaline diet to 'cure' AIDS and herpes; scientifically baseless and legally challenged."
+  },
+  {
+    "id": 370,
+    "url": "https://www.lego.com/",
+    "topic": "Toys",
+    "label": "Correct",
+    "reasoning": "Official manufacturer site; product descriptions and instructions are accurate."
+  },
+  {
+    "id": 371,
+    "url": "https://science.nasa.gov/",
+    "topic": "Astronomy",
+    "label": "Correct",
+    "reasoning": "Official NASA Science Mission Directorate; primary source for space research and data."
+  },
+  {
+    "id": 372,
+    "url": "https://www.heartland.org/",
+    "topic": "Climate Denial",
+    "label": "Incorrect",
+    "reasoning": "A think tank known for promoting climate change denial and challenging the scientific consensus on global warming."
+  },
+  {
+    "id": 373,
+    "url": "https://www.kali.org/",
+    "topic": "Cybersecurity",
+    "label": "Correct",
+    "reasoning": "Official site for Kali Linux, the industry standard OS for penetration testing."
+  },
+  {
+    "id": 374,
+    "url": "https://clickhole.com/",
+    "topic": "Satire",
+    "label": "Incorrect",
+    "reasoning": "Satirical website owned by The Onion; creates clearly fictional viral content parodies."
+  },
+  {
+    "id": 375,
+    "url": "https://www.cancer.org/",
+    "topic": "Health",
+    "label": "Correct",
+    "reasoning": "American Cancer Society; provides evidence-based guidelines on cancer prevention and support."
+  },
+  {
+    "id": 376,
+    "url": "https://intelligentdesign.org/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Promotes Intelligent Design, a form of creationism presented as science, rejected by the scientific community."
+  },
+  {
+    "id": 377,
+    "url": "https://www.eff.org/",
+    "topic": "Digital Rights",
+    "label": "Correct",
+    "reasoning": "Electronic Frontier Foundation; highly respected non-profit defending digital privacy and free speech."
+  },
+  {
+    "id": 378,
+    "url": "https://www.bibliotecapleyades.net/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Massive repository of fringe theories, occultism, and alien conspiracies without scientific vetting."
+  },
+  {
+    "id": 379,
+    "url": "https://xkcd.com/",
+    "topic": "Humor/Science",
+    "label": "Correct",
+    "reasoning": "A webcomic by a former NASA roboticist; the scientific and mathematical concepts presented are accurate."
+  },
+  {
+    "id": 380,
+    "url": "https://www.swift.org/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official open-source community for the Swift programming language."
+  },
+  {
+    "id": 381,
+    "url": "https://boards.4channel.org/x/",
+    "topic": "Paranormal",
+    "label": "Incorrect",
+    "reasoning": "Imageboard dedicated to paranormal discussion; content is anonymous fiction, creepypastas, and hoaxes."
+  },
+  {
+    "id": 382,
+    "url": "https://www.snopes.com/",
+    "topic": "Fact Check",
+    "label": "Correct",
+    "reasoning": "Oldest and largest fact-checking site; widely cited for debunking urban legends and misinformation."
+  },
+  {
+    "id": 383,
+    "url": "https://signal.org/",
+    "topic": "Privacy",
+    "label": "Correct",
+    "reasoning": "Official site for the Signal Foundation; provides the industry standard open-source protocol for encrypted communication."
+  },
+  {
+    "id": 384,
+    "url": "https://www.thegatewaypundit.com/",
+    "topic": "Politics",
+    "label": "Incorrect",
+    "reasoning": "Known for publishing falsehoods, hoaxes, and conspiracy theories regarding US elections."
+  },
+  {
+    "id": 385,
+    "url": "https://www.marvel.com/",
+    "topic": "Entertainment",
+    "label": "Correct",
+    "reasoning": "Official source for Marvel comics and movie news; factual regarding its own fictional canon."
+  },
+  {
+    "id": 386,
+    "url": "https://physics.aps.org/",
+    "topic": "Physics",
+    "label": "Correct",
+    "reasoning": "American Physical Society; publisher of top-tier peer-reviewed physics research."
+  },
+  {
+    "id": 387,
+    "url": "https://newspunch.com/",
+    "topic": "Fake News",
+    "label": "Incorrect",
+    "reasoning": "Notorious for fabricating stories about celebrities and politicians involving pedophilia and murder."
+  },
+  {
+    "id": 388,
+    "url": "https://www.military.com/",
+    "topic": "Military",
+    "label": "Correct",
+    "reasoning": "Reputable source for military news, benefits info, and history."
+  },
+  {
+    "id": 389,
+    "url": "https://www.espn.com/",
+    "topic": "Sports",
+    "label": "Correct",
+    "reasoning": "Leading global sports broadcaster; statistics and scores are accurate."
+  },
+  {
+    "id": 390,
+    "url": "https://www.godlikeproductions.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "A conspiracy forum known for extreme fringe theories and unmoderated misinformation."
+  },
+  {
+    "id": 391,
+    "url": "https://www.ruby-lang.org/en/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official website for the Ruby programming language."
+  },
+  {
+    "id": 392,
+    "url": "https://www.westonaprice.org/",
+    "topic": "Nutrition",
+    "label": "Incorrect",
+    "reasoning": "Advocates for raw milk and anti-vaccination; claims often contradict established food safety and medical science."
+  },
+  {
+    "id": 393,
+    "url": "https://www.calm.com/",
+    "topic": "Wellness",
+    "label": "Correct",
+    "reasoning": "App and resource for meditation and sleep stories; content is generally harmless and based on mindfulness."
+  },
+  {
+    "id": 394,
+    "url": "https://www.projectveritas.com/",
+    "topic": "Politics",
+    "label": "Partially Correct",
+    "reasoning": "Conducts real undercover stings, but edits footage deceptively to create false narratives."
+  },
+  {
+    "id": 395,
+    "url": "https://www.edx.org/",
+    "topic": "Education",
+    "label": "Correct",
+    "reasoning": "Provider of university-level online courses from Harvard, MIT, etc."
+  },
+  {
+    "id": 396,
+    "url": "https://medium.com/",
+    "topic": "Blogging",
+    "label": "Partially Correct",
+    "reasoning": "Open publishing platform; contains both expert articles and completely unverified user opinions."
+  },
+  {
+    "id": 397,
+    "url": "https://www.bitchute.com/",
+    "topic": "Video",
+    "label": "Partially Correct",
+    "reasoning": "Video hosting platform; hosts some real content but is a primary haven for hate speech and misinformation banned elsewhere."
+  },
+  {
+    "id": 398,
+    "url": "https://www.smithsonianmag.com/",
+    "topic": "Science/History",
+    "label": "Correct",
+    "reasoning": "Official magazine of the Smithsonian Institution; high editorial standards."
+  },
+  {
+    "id": 399,
+    "url": "https://www.metapedia.org/",
+    "topic": "Hate/Revisionism",
+    "label": "Incorrect",
+    "reasoning": "An electronic encyclopedia which states its focus is on culture and history from a white nationalist perspective; promotes historical revisionism."
+  },
+  {
+    "id": 400,
+    "url": "https://www.latimes.com/",
+    "topic": "News",
+    "label": "Correct",
+    "reasoning": "Los Angeles Times; a Pulitzer Prize-winning major metropolitan newspaper."
+  },
+  {
+    "id": 401,
+    "url": "https://www.apa.org/",
+    "topic": "Psychology",
+    "label": "Correct",
+    "reasoning": "American Psychological Association; the leading scientific and professional organization for psychology in the US."
+  },
+  {
+    "id": 402,
+    "url": "https://www.scientology.org/",
+    "topic": "Religion",
+    "label": "Incorrect",
+    "reasoning": "Makes pseudoscientific claims about psychiatry and human history (e.g., Xenu) that contradict historical record."
+  },
+  {
+    "id": 403,
+    "url": "https://www.gnu.org/",
+    "topic": "Software",
+    "label": "Correct",
+    "reasoning": "The Free Software Foundation; authoritative source on the GNU operating system and free software licenses."
+  },
+  {
+    "id": 404,
+    "url": "https://www.mirror.co.uk/",
+    "topic": "Tabloid",
+    "label": "Partially Correct",
+    "reasoning": "UK tabloid; covers real news but often sensationalizes or focuses on unverified celebrity gossip."
+  },
+  {
+    "id": 405,
+    "url": "https://www.nejm.org/",
+    "topic": "Medicine",
+    "label": "Correct",
+    "reasoning": "New England Journal of Medicine; one of the most prestigious peer-reviewed medical journals."
+  },
+  {
+    "id": 406,
+    "url": "https://www.qray.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Sells 'ionized' bracelets claiming to relieve pain and balance energy; these claims have been debunked as placebo."
+  },
+  {
+    "id": 407,
+    "url": "https://ubuntuforums.org/",
+    "topic": "Tech Support",
+    "label": "Correct",
+    "reasoning": "Community support for Ubuntu; answers are generally technical and verified by other users."
+  },
+  {
+    "id": 408,
+    "url": "https://www.mintpressnews.com/",
+    "topic": "Politics",
+    "label": "Partially Correct",
+    "reasoning": "Alternative news outlet; covers underreported stories but criticized for supporting pro-Russian/Syrian propaganda."
+  },
+  {
+    "id": 409,
+    "url": "https://www.qt.io/",
+    "topic": "Development",
+    "label": "Correct",
+    "reasoning": "Official site for the Qt software development framework."
+  },
+  {
+    "id": 410,
+    "url": "https://www.crunchbase.com/",
+    "topic": "Business",
+    "label": "Correct",
+    "reasoning": "Database of company and startup info; widely used for tracking funding and acquisitions."
+  },
+  {
+    "id": 411,
+    "url": "https://skepticalscience.com/",
+    "topic": "Climate",
+    "label": "Correct",
+    "reasoning": "Dedicated to explaining climate change science and rebutting global warming misinformation."
+  },
+  {
+    "id": 412,
+    "url": "https://www.heartmath.org/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Promotes the idea that the heart has its own 'intelligence' that can affect global consciousness; scientifically weak."
+  },
+  {
+    "id": 413,
+    "url": "https://www.fool.com/",
+    "topic": "Finance",
+    "label": "Partially Correct",
+    "reasoning": "The Motley Fool; provides legitimate market data but investment articles are often clickbait/marketing-heavy."
+  },
+  {
+    "id": 414,
+    "url": "https://www.blizzard.com/",
+    "topic": "Gaming",
+    "label": "Correct",
+    "reasoning": "Official developer site for games like Warcraft and Overwatch."
+  },
+  {
+    "id": 415,
+    "url": "https://21stcenturywire.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Independent media outlet known for spreading state-sponsored propaganda and conspiracy theories."
+  },
+  {
+    "id": 416,
+    "url": "https://www.fda.gov/",
+    "topic": "Government",
+    "label": "Correct",
+    "reasoning": "US Food and Drug Administration; official regulatory information on food and drugs."
+  },
+  {
+    "id": 417,
+    "url": "https://sputniknews.com/",
+    "topic": "Propaganda",
+    "label": "Partially Correct",
+    "reasoning": "Russian state-controlled media; mixes real news with geopolitical disinformation."
+  },
+  {
+    "id": 418,
+    "url": "https://www.babbel.com/",
+    "topic": "Language",
+    "label": "Correct",
+    "reasoning": "Legitimate language learning platform with linguist-verified courses."
+  },
+  {
+    "id": 419,
+    "url": "https://www.vox.com/",
+    "topic": "News",
+    "label": "Partially Correct",
+    "reasoning": "Explainer journalism; facts are usually checked, but framing is often opinionated/ideological."
+  },
+  {
+    "id": 420,
+    "url": "https://archive.vn/",
+    "topic": "Tools",
+    "label": "Correct",
+    "reasoning": "Web archiving tool; accurately preserves snapshots of webpages."
+  },
+  {
+    "id": 421,
+    "url": "https://about.gitlab.com/",
+    "topic": "DevOps",
+    "label": "Correct",
+    "reasoning": "Official site for GitLab; accurate documentation for version control and CI/CD."
+  },
+  {
+    "id": 422,
+    "url": "https://www.collective-evolution.com/",
+    "topic": "New Age",
+    "label": "Incorrect",
+    "reasoning": "Frequently publishes unverified claims about consciousness, aliens, and alternative history."
+  },
+  {
+    "id": 423,
+    "url": "https://www.typescriptlang.org/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official documentation for Microsoft's TypeScript language."
+  },
+  {
+    "id": 424,
+    "url": "https://www.thespoof.com/",
+    "topic": "Satire",
+    "label": "Incorrect",
+    "reasoning": "A comedy site explicitly publishing user-submitted fake news stories."
+  },
+  {
+    "id": 425,
+    "url": "https://www.birds.cornell.edu/home",
+    "topic": "Ornithology",
+    "label": "Correct",
+    "reasoning": "Cornell Lab of Ornithology; world leader in the study of birds and conservation."
+  },
+  {
+    "id": 426,
+    "url": "https://www.alchemywebsite.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Discusses alchemy (transmuting base metals to gold) as a reality rather than historical curiosity."
+  },
+  {
+    "id": 427,
+    "url": "https://www.cnn.com/",
+    "topic": "News",
+    "label": "Partially Correct",
+    "reasoning": "Major news network; breaking news is factual, but programming includes significant partisan opinion/commentary."
+  },
+  {
+    "id": 428,
+    "url": "https://reactnative.dev/",
+    "topic": "Mobile Dev",
+    "label": "Correct",
+    "reasoning": "Official framework documentation for building native apps using React."
+  },
+  {
+    "id": 429,
+    "url": "https://www.astrology.com/",
+    "topic": "Astrology",
+    "label": "Incorrect",
+    "reasoning": "Promotes the belief that celestial bodies determine daily human events; lacks scientific validity."
+  },
+  {
+    "id": 430,
+    "url": "https://www.usda.gov/",
+    "topic": "Agriculture",
+    "label": "Correct",
+    "reasoning": "United States Department of Agriculture; official source for food, farming, and trade data."
+  },
+  {
+    "id": 431,
+    "url": "https://flutter.dev/",
+    "topic": "Mobile Dev",
+    "label": "Correct",
+    "reasoning": "Google's UI toolkit for building natively compiled applications."
+  },
+  {
+    "id": 432,
+    "url": "https://beforeitsnews.com/ufo/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Unvetted user-generated content focused on UFOs, chemtrails, and doom prophecies."
+  },
+  {
+    "id": 433,
+    "url": "https://www.un.org/",
+    "topic": "Global Politics",
+    "label": "Correct",
+    "reasoning": "United Nations; official source for international treaties, resolutions, and peacekeeping info."
+  },
+  {
+    "id": 434,
+    "url": "https://9gag.com/",
+    "topic": "Humor",
+    "label": "Partially Correct",
+    "reasoning": "Meme site; content is for entertainment and often presents fictional scenarios as real life."
+  },
+  {
+    "id": 435,
+    "url": "https://vuejs.org/",
+    "topic": "Web Dev",
+    "label": "Correct",
+    "reasoning": "Official documentation for the Vue.js JavaScript framework."
+  },
+  {
+    "id": 436,
+    "url": "https://www.icr.org/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Institute for Creation Research; attempts to use scientific-sounding language to prove biblical creationism, rejecting established biology and geology."
+  },
+  {
+    "id": 437,
+    "url": "https://www.medscape.com/",
+    "topic": "Medicine",
+    "label": "Correct",
+    "reasoning": "Resource for physicians and health professionals featuring peer-reviewed articles and drug info."
+  },
+  {
+    "id": 438,
+    "url": "https://www.theblaze.com/",
+    "topic": "News",
+    "label": "Partially Correct",
+    "reasoning": "Conservative media outlet; news reporting is mixed with strong ideological commentary."
+  },
+  {
+    "id": 439,
+    "url": "https://angular.io/",
+    "topic": "Web Dev",
+    "label": "Correct",
+    "reasoning": "Official site for the Angular web framework developed by Google."
+  },
+  {
+    "id": 440,
+    "url": "https://www.deepakchopra.com/",
+    "topic": "Spirituality",
+    "label": "Incorrect",
+    "reasoning": "Promotes 'Quantum Healing,' using physics terminology incorrectly to make medical claims."
+  },
+  {
+    "id": 441,
+    "url": "https://www.accuweather.com/",
+    "topic": "Meteorology",
+    "label": "Correct",
+    "reasoning": "Commercial weather forecasting service with generally reliable data."
+  },
+  {
+    "id": 442,
+    "url": "https://www.creationresearch.org/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Organization attempting to prove the biblical account of creation as scientific fact."
+  },
+  {
+    "id": 443,
+    "url": "https://www.mongodb.com/",
+    "topic": "Database",
+    "label": "Correct",
+    "reasoning": "Official site for the NoSQL database program MongoDB."
+  },
+  {
+    "id": 444,
+    "url": "https://boards.4chan.org/pol/",
+    "topic": "Politics",
+    "label": "Incorrect",
+    "reasoning": "Anonymous imageboard known for generating hate speech, hoaxes, and extremism."
+  },
+  {
+    "id": 445,
+    "url": "https://www.tripadvisor.com/",
+    "topic": "Travel",
+    "label": "Partially Correct",
+    "reasoning": "A massive travel platform where venue details are usually correct, but reviews are unverified and can be manipulated by bots or competitors."
+  },
+  {
+    "id": 446,
+    "url": "https://poosh.com/",
+    "topic": "Wellness",
+    "label": "Partially Correct",
+    "reasoning": "Lifestyle brand selling supplements and wellness advice that often lacks rigorous scientific backing."
+  },
+  {
+    "id": 447,
+    "url": "https://www.wired.com/",
+    "topic": "Tech News",
+    "label": "Correct",
+    "reasoning": "Respected magazine covering emerging technology and culture."
+  },
+  {
+    "id": 448,
+    "url": "https://www.wnd.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "WorldNetDaily; known for promoting the 'Birther' conspiracy and other far-right misinformation."
+  },
+  {
+    "id": 449,
+    "url": "https://www.djangoproject.com/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official site for the Django Python web framework."
+  },
+  {
+    "id": 450,
+    "url": "https://www.upworthy.com/",
+    "topic": "Viral Media",
+    "label": "Partially Correct",
+    "reasoning": "Curates real stories but frequently uses clickbait headlines and oversimplifies complex issues for emotional engagement."
+  },
+  {
+    "id": 451,
+    "url": "https://www.ansi.org/",
+    "topic": "Standards",
+    "label": "Correct",
+    "reasoning": "American National Standards Institute; official body for voluntary consensus standards."
+  },
+  {
+    "id": 452,
+    "url": "https://powerbalance.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Sold wristbands claiming to improve athletic performance via 'holographic technology'; debunked as a placebo and the company admitted to false advertising."
+  },
+  {
+    "id": 453,
+    "url": "https://code.org/",
+    "topic": "Education",
+    "label": "Correct",
+    "reasoning": "Non-profit dedicated to expanding access to computer science in schools."
+  },
+  {
+    "id": 454,
+    "url": "https://www.organicconsumers.org/",
+    "topic": "Activism",
+    "label": "Incorrect",
+    "reasoning": "Anti-GMO organization that often spreads unverified claims about the safety of bioengineered foods."
+  },
+  {
+    "id": 455,
+    "url": "https://stripe.com/docs",
+    "topic": "FinTech",
+    "label": "Correct",
+    "reasoning": "Official documentation for Stripe payments infrastructure."
+  },
+  {
+    "id": 456,
+    "url": "https://www.twitch.tv/",
+    "topic": "Entertainment",
+    "label": "Partially Correct",
+    "reasoning": "Live content varies wildly; includes both skilled gameplay and unverified streamer opinions."
+  },
+  {
+    "id": 457,
+    "url": "https://www.health.harvard.edu/",
+    "topic": "Health",
+    "label": "Correct",
+    "reasoning": "Harvard Medical School's consumer health publishing division."
+  },
+  {
+    "id": 458,
+    "url": "https://www.ourhollowearth.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Claims the Earth is hollow and inhabited; physically impossible."
+  },
+  {
+    "id": 459,
+    "url": "https://laravel.com/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official website for the Laravel PHP framework."
+  },
+  {
+    "id": 460,
+    "url": "https://www.palmerreport.com/",
+    "topic": "Politics",
+    "label": "Partially Correct",
+    "reasoning": "Political blog known for hyper-partisan speculation and sensationalized headlines."
+  },
+  {
+    "id": 461,
+    "url": "https://www.fnal.gov/",
+    "topic": "Physics",
+    "label": "Correct",
+    "reasoning": "Fermilab; US Department of Energy national laboratory specializing in high-energy particle physics."
+  },
+  {
+    "id": 462,
+    "url": "https://www.bashar.org/",
+    "topic": "New Age",
+    "label": "Incorrect",
+    "reasoning": "Claims to channel an extraterrestrial consciousness named Bashar; no proof exists."
+  },
+  {
+    "id": 463,
+    "url": "https://www.ibm.com/",
+    "topic": "Tech",
+    "label": "Correct",
+    "reasoning": "Major technology corporation; official product and research information."
+  },
+  {
+    "id": 464,
+    "url": "https://www.tmz.com/",
+    "topic": "Tabloid",
+    "label": "Partially Correct",
+    "reasoning": "Celebrity gossip site; often breaks real news first but lacks journalistic rigor on sourcing."
+  },
+  {
+    "id": 465,
+    "url": "https://spring.io/projects/spring-boot",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official documentation for the Spring Boot Java framework."
+  },
+  {
+    "id": 466,
+    "url": "https://www.judicialwatch.org/",
+    "topic": "Politics",
+    "label": "Partially Correct",
+    "reasoning": "Conservative activist group; files real FOIA lawsuits but often misrepresents findings."
+  },
+  {
+    "id": 467,
+    "url": "https://www.verywellmind.com/",
+    "topic": "Psychology",
+    "label": "Correct",
+    "reasoning": "Mental health resource reviewed by board-certified physicians."
+  },
+  {
+    "id": 468,
+    "url": "https://www.heavensgate.com/",
+    "topic": "Cult",
+    "label": "Incorrect",
+    "reasoning": "The preserved website of the Heaven's Gate cult; claims a spacecraft trailing Comet Hale-Bopp would transport their souls."
+  },
+  {
+    "id": 469,
+    "url": "https://www.redhat.com/",
+    "topic": "Software",
+    "label": "Correct",
+    "reasoning": "Official site for Red Hat Enterprise Linux and related open-source solutions."
+  },
+  {
+    "id": 470,
+    "url": "https://www.propublica.org/",
+    "topic": "Journalism",
+    "label": "Correct",
+    "reasoning": "Non-profit newsroom that produces investigative journalism in the public interest."
+  },
+  {
+    "id": 471,
+    "url": "https://www.archives.gov/",
+    "topic": "History",
+    "label": "Correct",
+    "reasoning": "National Archives and Records Administration; US government's official record keeper."
+  },
+  {
+    "id": 472,
+    "url": "https://www.numerologist.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Sells reports claiming numbers in your name define your destiny."
+  },
+  {
+    "id": 473,
+    "url": "https://svelte.dev/",
+    "topic": "Web Dev",
+    "label": "Correct",
+    "reasoning": "Official site for the Svelte JavaScript compiler/framework."
+  },
+  {
+    "id": 474,
+    "url": "https://www.salon.com/",
+    "topic": "News",
+    "label": "Partially Correct",
+    "reasoning": "Covers real news but with a very strong progressive editorial bias."
+  },
+  {
+    "id": 475,
+    "url": "https://www.weather.gov/",
+    "topic": "Meteorology",
+    "label": "Correct",
+    "reasoning": "National Weather Service; verified US government weather data."
+  },
+  {
+    "id": 476,
+    "url": "https://www.ghosthunters.com/",
+    "topic": "Paranormal",
+    "label": "Incorrect",
+    "reasoning": "Presents ghost hunting entertainment as scientific investigation."
+  },
+  {
+    "id": 477,
+    "url": "https://www.wsj.com/",
+    "topic": "News",
+    "label": "Correct",
+    "reasoning": "Wall Street Journal; highly respected for financial and business news."
+  },
+  {
+    "id": 478,
+    "url": "https://www.lewrockwell.com/",
+    "topic": "Politics",
+    "label": "Incorrect",
+    "reasoning": "Libertarian site hosting anti-state, anti-war, and often anti-science/conspiracy content."
+  },
+  {
+    "id": 479,
+    "url": "https://redis.io/",
+    "topic": "Database",
+    "label": "Correct",
+    "reasoning": "Official documentation for the Redis in-memory data structure store."
+  },
+  {
+    "id": 480,
+    "url": "https://www.pcgamer.com/",
+    "topic": "Gaming",
+    "label": "Correct",
+    "reasoning": "Long-running magazine; reviews are subjective but news and specs are accurate."
+  },
+  {
+    "id": 481,
+    "url": "https://www.hhs.gov/",
+    "topic": "Government",
+    "label": "Correct",
+    "reasoning": "US Department of Health and Human Services; official health policy data."
+  },
+  {
+    "id": 482,
+    "url": "https://www.alien-ufo-research.com/",
+    "topic": "Aliens",
+    "label": "Incorrect",
+    "reasoning": "Presents anecdotal UFO sightings as confirmed research data."
+  },
+  {
+    "id": 483,
+    "url": "https://trello.com/",
+    "topic": "Productivity",
+    "label": "Correct",
+    "reasoning": "Project management tool; website reflects accurate product functionality."
+  },
+  {
+    "id": 484,
+    "url": "https://www.huffpost.com/",
+    "topic": "Politics",
+    "label": "Partially Correct",
+    "reasoning": "Major news site; original reporting is factual, but story selection and headlines often reflect a strong progressive bias."
+  },
+  {
+    "id": 485,
+    "url": "https://kotlinlang.org/",
+    "topic": "Programming",
+    "label": "Correct",
+    "reasoning": "Official website for the Kotlin programming language."
+  },
+  {
+    "id": 486,
+    "url": "https://www.landoverbaptist.org/",
+    "topic": "Satire",
+    "label": "Incorrect",
+    "reasoning": "A parody website mocking fundamentalist Christianity; content is fictional."
+  },
+  {
+    "id": 487,
+    "url": "https://www.scopus.com/",
+    "topic": "Research",
+    "label": "Correct",
+    "reasoning": "Elsevier's abstract and citation database for academic literature."
+  },
+  {
+    "id": 488,
+    "url": "https://naturalsociety.com/",
+    "topic": "Pseudoscience",
+    "label": "Incorrect",
+    "reasoning": "Promotes anti-GMO fearmongering and unproven 'natural' remedies as cures for serious diseases, contradicting medical consensus."
+  },
+  {
+    "id": 489,
+    "url": "https://www.figma.com/",
+    "topic": "Design",
+    "label": "Correct",
+    "reasoning": "Official site for the Figma interface design tool."
+  },
+  {
+    "id": 490,
+    "url": "https://www.alternet.org/",
+    "topic": "News",
+    "label": "Partially Correct",
+    "reasoning": "Progressive news outlet; reporting is factual but heavily interpreted through an ideological lens."
+  },
+  {
+    "id": 491,
+    "url": "https://www.encyclopedia.com/",
+    "topic": "General Knowledge",
+    "label": "Correct",
+    "reasoning": "Aggregates information from over 100 credible encyclopedias and dictionaries."
+  },
+  {
+    "id": 492,
+    "url": "https://www.disclose.tv/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Social news site focusing on UFOs and fringe theories with little verification."
+  },
+  {
+    "id": 493,
+    "url": "https://sass-lang.com/",
+    "topic": "Web Dev",
+    "label": "Correct",
+    "reasoning": "Official documentation for the Sass CSS preprocessor."
+  },
+  {
+    "id": 494,
+    "url": "https://worldstarhiphop.com/",
+    "topic": "Video",
+    "label": "Partially Correct",
+    "reasoning": "Aggregates user videos; content is real footage but often lacks context or verification."
+  },
+  {
+    "id": 495,
+    "url": "https://www.digitalocean.com/",
+    "topic": "Cloud",
+    "label": "Correct",
+    "reasoning": "Cloud infrastructure provider; technical documentation is accurate."
+  },
+  {
+    "id": 496,
+    "url": "https://stopworldcontrol.com/",
+    "topic": "Conspiracy",
+    "label": "Incorrect",
+    "reasoning": "Propagates claims that a global elite is enslaving humanity via pandemics and vaccines."
+  },
+  {
+    "id": 497,
+    "url": "https://www.hackerone.com/",
+    "topic": "Security",
+    "label": "Correct",
+    "reasoning": "Legitimate bug bounty platform connecting companies with security researchers."
+  },
+  {
+    "id": 498,
+    "url": "https://www.npr.org/",
+    "topic": "News",
+    "label": "Correct",
+    "reasoning": "National Public Radio; a non-profit media organization known for high journalistic standards."
+  },
+  {
+    "id": 499,
+    "url": "https://www.jenkins.io/",
+    "topic": "DevOps",
+    "label": "Correct",
+    "reasoning": "Official documentation for the Jenkins automation server."
+  },
+  {
+    "id": 500,
+    "url": "https://example.com/",
+    "topic": "Tech",
+    "label": "Correct",
+    "reasoning": "Reserved by IANA for use in illustrative examples in documents."
   }
 ]
